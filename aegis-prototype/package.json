@@ -1,0 +1,29 @@
+{
+  "name": "aegis-prototype",
+  "version": "3.0.0",
+  "description": "AEGIS - Adaptive Engineering for Generalized Individualized Safety. N-of-1 Precision Medicine Platform.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linting configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/aegis-prototype"
+  },
+  "keywords": [
+    "precision-medicine",
+    "n-of-1",
+    "diabetes",
+    "clinical-decision-support",
+    "causal-inference",
+    "digital-twin",
+    "safe-reinforcement-learning"
+  ],
+  "author": "AEGIS Research Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
