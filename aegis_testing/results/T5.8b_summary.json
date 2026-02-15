@@ -2,18 +2,8 @@
   "test_id": "T5.8b",
   "test_name": "Wrong prediction -50%",
   "n_runs": 500,
-  "elapsed_seconds": 0.743227481842041,
+  "elapsed_seconds": 0.4654686450958252,
   "metrics": {
-    "safe_dose": {
-      "mean": 0.0,
-      "std": 0.0,
-      "median": 0.0,
-      "ci_lower": 0.0,
-      "ci_upper": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "n": 500
-    },
     "predicted": {
       "mean": 91.42130726583576,
       "std": 32.61078058807724,
@@ -22,6 +12,16 @@
       "ci_upper": 146.43149516014867,
       "min": 40.556774223084055,
       "max": 149.6300520781296,
+      "n": 500
+    },
+    "safe_dose": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
       "n": 500
     },
     "actual": {

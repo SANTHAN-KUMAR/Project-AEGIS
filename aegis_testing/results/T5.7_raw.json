@@ -2,70 +2,70 @@
   {
     "metrics": {
       "batch": 0,
-      "latency_ms": 0.9758460000739433
+      "latency_ms": 1.0502799996174872
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 1000,
-      "latency_ms": 0.8718339995539282
+      "latency_ms": 0.9250090006389655
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 2000,
-      "latency_ms": 1.3025869993725792
+      "latency_ms": 0.806863001344027
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 3000,
-      "latency_ms": 1.3522770004783524
+      "latency_ms": 0.7531690025643911
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 4000,
-      "latency_ms": 1.3034779985900968
+      "latency_ms": 0.7990640006028116
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 5000,
-      "latency_ms": 1.326558000073419
+      "latency_ms": 0.9174700026051141
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 6000,
-      "latency_ms": 1.330008999502752
+      "latency_ms": 1.0975939985655714
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 7000,
-      "latency_ms": 1.2971539999853121
+      "latency_ms": 0.8460850003757514
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 8000,
-      "latency_ms": 1.2517029990704032
+      "latency_ms": 0.8379600003536325
     },
     "condition": {}
   },
   {
     "metrics": {
       "batch": 9000,
-      "latency_ms": 1.240244000655366
+      "latency_ms": 0.7970440019562375
     },
     "condition": {}
   }

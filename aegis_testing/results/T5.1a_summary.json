@@ -2,16 +2,16 @@
   "test_id": "T5.1a",
   "test_name": "Tier 1 overrides all",
   "n_runs": 34,
-  "elapsed_seconds": 0.03798079490661621,
+  "elapsed_seconds": 0.028447866439819336,
   "metrics": {
-    "glucose": {
-      "mean": 36.5,
-      "std": 9.810708435174291,
-      "median": 36.5,
-      "ci_lower": 20.825,
-      "ci_upper": 52.175,
-      "min": 20.0,
-      "max": 53.0,
+    "active_tier": {
+      "mean": 1.0,
+      "std": 0.0,
+      "median": 1.0,
+      "ci_lower": 1.0,
+      "ci_upper": 1.0,
+      "min": 1.0,
+      "max": 1.0,
       "n": 34
     },
     "safe_dose": {
@@ -24,14 +24,14 @@
       "max": 0.0,
       "n": 34
     },
-    "active_tier": {
-      "mean": 1.0,
-      "std": 0.0,
-      "median": 1.0,
-      "ci_lower": 1.0,
-      "ci_upper": 1.0,
-      "min": 1.0,
-      "max": 1.0,
+    "glucose": {
+      "mean": 36.5,
+      "std": 9.810708435174291,
+      "median": 36.5,
+      "ci_lower": 20.825,
+      "ci_upper": 52.175,
+      "min": 20.0,
+      "max": 53.0,
       "n": 34
     },
     "action_is_suspend": {

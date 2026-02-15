@@ -2,16 +2,16 @@
   "test_id": "T5.8c",
   "test_name": "Dangerous dose proposal",
   "n_runs": 40,
-  "elapsed_seconds": 0.06001853942871094,
+  "elapsed_seconds": 0.03583097457885742,
   "metrics": {
-    "proposed_dose": {
-      "mean": 20.0,
-      "std": 0.0,
-      "median": 20.0,
-      "ci_lower": 20.0,
-      "ci_upper": 20.0,
-      "min": 20.0,
-      "max": 20.0,
+    "safe_dose": {
+      "mean": 3.75,
+      "std": 6.49519052838329,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 15.0,
+      "min": 0.0,
+      "max": 15.0,
       "n": 40
     },
     "glucose": {
@@ -24,14 +24,14 @@
       "max": 79.0,
       "n": 40
     },
-    "safe_dose": {
-      "mean": 3.75,
-      "std": 6.49519052838329,
-      "median": 0.0,
-      "ci_lower": 0.0,
-      "ci_upper": 15.0,
-      "min": 0.0,
-      "max": 15.0,
+    "proposed_dose": {
+      "mean": 20.0,
+      "std": 0.0,
+      "median": 20.0,
+      "ci_lower": 20.0,
+      "ci_upper": 20.0,
+      "min": 20.0,
+      "max": 20.0,
       "n": 40
     }
   }

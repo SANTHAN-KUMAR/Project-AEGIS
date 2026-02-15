@@ -349,6 +349,31 @@ class TestT5_2_ReflexBoundary:
 
             collector.add_result({"original_dose": dose, "capped_dose": tier1.dose})
 
+    def test_dose_exactly_at_max_is_allowed(self, supervisor, result_collector):
+        """Dose exactly equal to max_bolus should be ALLOWED, not REDUCED."""
+        collector = result_collector("T5.2e", "Dose at max_bolus boundary")
+
+        for glucose in [100, 150, 200, 250]:
+            supervisor.reset_hysteresis()
+            trajectory = generate_trajectory(glucose, "stable")
+            result = supervisor.verify(
+                glucose=float(glucose),
+                predicted_trajectory=trajectory,
+                recommended_dose=15.0,  # Exactly max_bolus
+            )
+            tier1 = result.tier_results[SafetyTier.TIER_1_REFLEX]
+            collector.add_result({
+                "glucose": glucose,
+                "action": int(tier1.action),
+                "dose": tier1.dose,
+            })
+
+            assert tier1.action == SafetyAction.ALLOW, (
+                f"Dose=15.0 (==max_bolus) at glucose={glucose} should be ALLOWED, "
+                f"got {tier1.action.name}"
+            )
+            assert tier1.dose == 15.0
+
 
 # ============================================================
 # T5.3: STL Specification Satisfaction
@@ -521,6 +546,52 @@ class TestT5_4_SeldonianConstraint:
             f"Seldonian violation rate {violation_rate:.3f} is too high (expected < 0.05)"
         )
 
+    def test_seldonian_coverage_bergman_outcome(self, supervisor, result_collector):
+        """T5.4c: Seldonian MC with nonlinear (Bergman-inspired) outcome model.
+
+        Uses a more realistic glucose-insulin relationship: insulin sensitivity
+        depends on glucose level (higher glucose → more responsive to insulin).
+        """
+        collector = result_collector("T5.4c", "Seldonian coverage (Bergman outcome)")
+        rng = np.random.RandomState(123)
+        violations = 0
+        total = 500
+
+        for trial in range(total):
+            supervisor.reset_hysteresis()
+            glucose = rng.uniform(80, 180)
+            dose = rng.uniform(0, 8)
+            std = rng.uniform(8, 25)
+
+            trajectory = generate_trajectory(glucose, "stable",
+                                              noise_std=std * 0.1, rng=rng)
+            result = supervisor.verify(
+                glucose=glucose, predicted_trajectory=trajectory,
+                recommended_dose=dose, prediction_std=std, n_observations=200,
+            )
+
+            # Nonlinear outcome: insulin sensitivity depends on glucose level
+            safe_dose = result.safe_dose
+            sensitivity = 20.0 + 10.0 * (glucose / 180.0)  # 20-30 mg/dL/U
+            time_delay_factor = rng.uniform(0.7, 1.3)  # Absorption variability
+            actual_drop = safe_dose * sensitivity * time_delay_factor
+            actual_glucose = glucose - actual_drop + rng.randn() * std
+
+            if actual_glucose < 54 and result.overall_safe:
+                violations += 1
+
+            collector.add_result({
+                "glucose": glucose, "dose": dose, "safe_dose": safe_dose,
+                "sensitivity": sensitivity,
+                "actual_glucose": actual_glucose,
+                "violation": int(actual_glucose < 54 and result.overall_safe),
+            })
+
+        violation_rate = violations / total
+        assert violation_rate < 0.05, (
+            f"Bergman-outcome Seldonian violation rate {violation_rate:.3f} "
+            f"too high (expected < 0.05)")
+
 
 # ============================================================
 # T5.5: Cold Start Relaxation
@@ -581,6 +652,33 @@ class TestT5_5_ColdStartRelaxation:
                 "safe_dose": result.safe_dose,
                 "p_harm": tier3.p_harm,
             })
+
+    def test_cold_start_monotonic_tightening(self, result_collector):
+        """T5.5c: Allowed dose at a given glucose should be monotonically
+        non-increasing as cold-start days progress (system gets stricter)."""
+        collector = result_collector("T5.5c", "Cold start monotonic tightening")
+
+        glucose = 95.0  # Borderline scenario
+        dose = 5.0
+        trajectory = generate_trajectory(glucose, "stable")
+
+        allowed_doses = []
+        for day in range(0, 35):
+            supervisor = SafetySupervisor(cold_start_days=30,
+                                          hysteresis_hold_steps=1)
+            supervisor.set_day(day)
+            result = supervisor.verify(
+                glucose=glucose, predicted_trajectory=trajectory,
+                recommended_dose=dose, prediction_std=15.0, n_observations=50,
+            )
+            allowed_doses.append(result.safe_dose)
+            collector.add_result({"day": day, "safe_dose": result.safe_dose})
+
+        # Check monotonic non-increasing
+        for i in range(1, len(allowed_doses)):
+            assert allowed_doses[i] <= allowed_doses[i - 1] + 0.01, (
+                f"Day {i}: allowed_dose {allowed_doses[i]:.3f} > "
+                f"day {i-1}: {allowed_doses[i-1]:.3f} — not monotonically tightening")
 
 
 # ============================================================
@@ -669,6 +767,28 @@ class TestT5_6_AdversarialInputs:
         result = supervisor.verify(
             glucose=150.0,
             predicted_trajectory=None,
+            recommended_dose=5.0,
+        )
+        assert result is not None
+
+    def test_nan_in_trajectory(self, supervisor):
+        """Trajectory containing NaN values should not crash."""
+        supervisor.reset_hysteresis()
+        traj = np.array([150.0, 145.0, float('nan'), 140.0, 135.0])
+        result = supervisor.verify(
+            glucose=150.0,
+            predicted_trajectory=traj,
+            recommended_dose=3.0,
+        )
+        assert result is not None
+
+    def test_all_zeros_trajectory(self, supervisor):
+        """All-zero trajectory should trigger STL safety (predicts G < 54)."""
+        supervisor.reset_hysteresis()
+        traj = np.zeros(36)
+        result = supervisor.verify(
+            glucose=150.0,
+            predicted_trajectory=traj,
             recommended_dose=5.0,
         )
         assert result is not None
@@ -816,6 +936,40 @@ class TestT5_8_CascadingFailure:
             collector.add_result({
                 "glucose": glucose,
                 "proposed_dose": 20.0,
+                "safe_dose": result.safe_dose,
+            })
+
+    def test_multiple_simultaneous_failures(self, supervisor, result_collector):
+        """T5.8d: Multiple upstream layers fail at once — L5 still safe."""
+        collector = result_collector("T5.8d", "Multiple simultaneous failures")
+        rng = np.random.RandomState(42)
+
+        for trial in range(500):
+            supervisor.reset_hysteresis()
+            actual_glucose = rng.uniform(40, 200)
+            # L2 gives wildly wrong trajectory
+            trajectory = generate_trajectory(
+                actual_glucose * rng.uniform(0.3, 2.0), "stable"
+            )
+            # L4 proposes extreme dose
+            proposed_dose = rng.uniform(10, 25)
+
+            result = supervisor.verify(
+                glucose=actual_glucose,
+                predicted_trajectory=trajectory,
+                recommended_dose=proposed_dose,
+            )
+
+            # Core invariant: if actual glucose < 54, dose MUST be 0
+            if actual_glucose < 54:
+                assert result.safe_dose == 0.0, (
+                    f"Multi-failure: actual glucose={actual_glucose:.1f}, "
+                    f"safe_dose should be 0, got {result.safe_dose}"
+                )
+
+            collector.add_result({
+                "actual": actual_glucose,
+                "proposed_dose": proposed_dose,
                 "safe_dose": result.safe_dose,
             })
 

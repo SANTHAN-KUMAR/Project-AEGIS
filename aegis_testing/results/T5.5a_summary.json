@@ -2,7 +2,7 @@
   "test_id": "T5.5a",
   "test_name": "Cold start relaxation schedule",
   "n_runs": 35,
-  "elapsed_seconds": 0.000202178955078125,
+  "elapsed_seconds": 0.0002009868621826172,
   "metrics": {
     "day": {
       "mean": 17.0,

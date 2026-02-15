@@ -2,8 +2,18 @@
   "test_id": "T5.11b",
   "test_name": "De-escalation on recovery",
   "n_runs": 9,
-  "elapsed_seconds": 0.013957500457763672,
+  "elapsed_seconds": 0.009014129638671875,
   "metrics": {
+    "safe_dose": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 9
+    },
     "action": {
       "mean": 1.6666666666666667,
       "std": 1.247219128924647,
@@ -22,16 +32,6 @@
       "ci_upper": 116.0,
       "min": 45.0,
       "max": 120.0,
-      "n": 9
-    },
-    "safe_dose": {
-      "mean": 0.0,
-      "std": 0.0,
-      "median": 0.0,
-      "ci_lower": 0.0,
-      "ci_upper": 0.0,
-      "min": 0.0,
-      "max": 0.0,
       "n": 9
     },
     "expected_zone": {

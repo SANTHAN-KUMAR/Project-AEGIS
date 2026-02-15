@@ -2,19 +2,9 @@
   "test_id": "T5.10a",
   "test_name": "Safe doses pass through",
   "n_runs": 6,
-  "elapsed_seconds": 0.0024149417877197266,
+  "elapsed_seconds": 0.0015597343444824219,
   "metrics": {
-    "glucose": {
-      "mean": 200.0,
-      "std": 60.277137733417085,
-      "median": 190.0,
-      "ci_lower": 123.75,
-      "ci_upper": 293.75,
-      "min": 120.0,
-      "max": 300.0,
-      "n": 6
-    },
-    "safe_dose": {
+    "dose": {
       "mean": 1.8333333333333333,
       "std": 1.649915822768611,
       "median": 1.0,
@@ -24,7 +14,7 @@
       "max": 5.0,
       "n": 6
     },
-    "dose": {
+    "safe_dose": {
       "mean": 1.8333333333333333,
       "std": 1.649915822768611,
       "median": 1.0,
@@ -42,6 +32,16 @@
       "ci_upper": 1.0,
       "min": 1.0,
       "max": 1.0,
+      "n": 6
+    },
+    "glucose": {
+      "mean": 200.0,
+      "std": 60.277137733417085,
+      "median": 190.0,
+      "ci_lower": 123.75,
+      "ci_upper": 293.75,
+      "min": 120.0,
+      "max": 300.0,
       "n": 6
     }
   }

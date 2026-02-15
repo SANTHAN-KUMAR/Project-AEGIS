@@ -52,12 +52,19 @@ def simulate_patient(patient_name, duration_hours=24, basal_rate=1.0,
     return glucose
 
 
-def simple_controller(glucose, target=120.0, basal=1.0, gain=0.003,
-                      max_correction=0.5):
+def simple_controller(glucose, target=120.0, basal=0.03, gain=0.0002,
+                      max_correction=0.02):
     """Simple proportional controller for dose proposals.
 
-    Scaled for simglucose 1-minute timesteps where basal=1.0 U/min
-    is the normal insulin delivery rate.
+    Scaled for simglucose 1-minute timesteps where basal ≈ 0.03 U/min
+    is the normal insulin delivery rate (empirically determined from
+    the simglucose virtual patient cohort).
+
+    Dose scale reference (at basal=0.03):
+      - glucose=120: 0.030 U/min (basal only)
+      - glucose=200: 0.046 U/min (+53% correction)
+      - glucose=300: 0.050 U/min (max correction capped)
+      - glucose< 70: 0.000 U/min (suspended)
 
     Mimics what L4 (Decision Engine) would propose:
     - Hypo (<54): suspend all insulin
@@ -83,8 +90,52 @@ def simple_controller(glucose, target=120.0, basal=1.0, gain=0.003,
     return dose
 
 
+# --- Per-patient basal calibration ---
+
+_BASAL_CACHE: dict = {}  # patient_name -> calibrated basal rate
+
+
+def calibrate_patient_basal(patient_name, duration_hours=6, target_tir=100.0):
+    """Find the basal rate that keeps this patient closest to 70-180 mg/dL.
+
+    Runs a quick open-loop sim at several candidate rates and picks the one
+    with the best Time-in-Range. Results are cached per patient.
+
+    Args:
+        patient_name: simglucose patient name
+        duration_hours: calibration sim length (6h is enough)
+        target_tir: ideal TIR to aim for
+
+    Returns:
+        float: optimal basal rate (U/min)
+    """
+    if patient_name in _BASAL_CACHE:
+        return _BASAL_CACHE[patient_name]
+
+    candidates = [0.005, 0.01, 0.015, 0.02, 0.025, 0.03, 0.04, 0.05, 0.06, 0.08, 0.10]
+    best_rate, best_score = 0.03, -1
+
+    for rate in candidates:
+        try:
+            glucose = simulate_patient(patient_name, duration_hours=duration_hours,
+                                       basal_rate=rate, meals=None, seed=0)
+            # Score = TIR (higher is better) with penalty for hypo
+            tir = float(np.mean((glucose >= 70) & (glucose <= 180)) * 100)
+            tbr = float(np.mean(glucose < 54) * 100)  # severe hypo penalty
+            score = tir - tbr * 5  # Heavy penalty for hypo
+            if score > best_score:
+                best_score = score
+                best_rate = rate
+        except Exception:
+            continue
+
+    _BASAL_CACHE[patient_name] = best_rate
+    return best_rate
+
+
 def simulate_closed_loop(patient_name, duration_hours=24, meals=None,
-                         noise_std=0.0, seed=42, supervisor_kwargs=None):
+                         noise_std=0.0, seed=42, supervisor_kwargs=None,
+                         basal=None):
     """Run closed-loop simulation with L5 actively controlling doses.
 
     The loop:
@@ -130,7 +181,8 @@ def simulate_closed_loop(patient_name, duration_hours=24, meals=None,
             traj_buffer[-1] = glucose
 
         # 2. Controller proposes a dose
-        proposed = simple_controller(glucose)
+        effective_basal = basal if basal is not None else 0.03
+        proposed = simple_controller(glucose, basal=effective_basal)
         proposed_doses[step] = proposed
 
         # 3. L5 verifies and modifies the dose

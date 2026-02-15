@@ -2,7 +2,7 @@
   "test_id": "T5.10c",
   "test_name": "Statistical non-restriction",
   "n_runs": 1,
-  "elapsed_seconds": 0.13660383224487305,
+  "elapsed_seconds": 0.08551716804504395,
   "metrics": {
     "rate": {
       "mean": 100.0,

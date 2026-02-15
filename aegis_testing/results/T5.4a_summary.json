@@ -2,28 +2,8 @@
   "test_id": "T5.4a",
   "test_name": "Seldonian blocks risky doses",
   "n_runs": 30,
-  "elapsed_seconds": 0.03344559669494629,
+  "elapsed_seconds": 0.02801799774169922,
   "metrics": {
-    "safe_dose": {
-      "mean": 0.0,
-      "std": 0.0,
-      "median": 0.0,
-      "ci_lower": 0.0,
-      "ci_upper": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "n": 30
-    },
-    "seldonian_safe": {
-      "mean": 0.0,
-      "std": 0.0,
-      "median": 0.0,
-      "ci_lower": 0.0,
-      "ci_upper": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "n": 30
-    },
     "dose": {
       "mean": 7.25,
       "std": 4.327720724199595,
@@ -34,6 +14,16 @@
       "max": 14.5,
       "n": 30
     },
+    "safe_dose": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 30
+    },
     "p_harm": {
       "mean": 0.8861289286289808,
       "std": 0.2700186541334552,
@@ -42,6 +32,16 @@
       "ci_upper": 1.0,
       "min": 0.123469642015434,
       "max": 1.0,
+      "n": 30
+    },
+    "seldonian_safe": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
       "n": 30
     }
   }

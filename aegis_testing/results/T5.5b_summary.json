@@ -2,8 +2,18 @@
   "test_id": "T5.5b",
   "test_name": "Cold start permissiveness",
   "n_runs": 7,
-  "elapsed_seconds": 0.0066375732421875,
+  "elapsed_seconds": 0.0073926448822021484,
   "metrics": {
+    "seldonian_safe": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 7
+    },
     "day": {
       "mean": 15.0,
       "std": 10.0,
@@ -32,16 +42,6 @@
       "ci_upper": 1.0,
       "min": 1.0,
       "max": 1.0,
-      "n": 7
-    },
-    "seldonian_safe": {
-      "mean": 0.0,
-      "std": 0.0,
-      "median": 0.0,
-      "ci_lower": 0.0,
-      "ci_upper": 0.0,
-      "min": 0.0,
-      "max": 0.0,
       "n": 7
     }
   }

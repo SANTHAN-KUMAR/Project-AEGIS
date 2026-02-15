@@ -2,18 +2,8 @@
   "test_id": "T5.9b",
   "test_name": "Oscillation at all thresholds",
   "n_runs": 16,
-  "elapsed_seconds": 0.5762007236480713,
+  "elapsed_seconds": 0.3538086414337158,
   "metrics": {
-    "amplitude": {
-      "mean": 4.5,
-      "std": 3.5,
-      "median": 3.5,
-      "ci_lower": 1.0,
-      "ci_upper": 10.0,
-      "min": 1.0,
-      "max": 10.0,
-      "n": 16
-    },
     "transitions": {
       "mean": 1.75,
       "std": 3.031088913245535,
@@ -22,6 +12,16 @@
       "ci_upper": 7.0,
       "min": 0.0,
       "max": 7.0,
+      "n": 16
+    },
+    "amplitude": {
+      "mean": 4.5,
+      "std": 3.5,
+      "median": 3.5,
+      "ci_lower": 1.0,
+      "ci_upper": 10.0,
+      "min": 1.0,
+      "max": 10.0,
       "n": 16
     },
     "transitions_per_hour": {

@@ -2,16 +2,16 @@
   "test_id": "T5.1d",
   "test_name": "All tiers pass - nominal",
   "n_runs": 7,
-  "elapsed_seconds": 0.0017910003662109375,
+  "elapsed_seconds": 0.0016739368438720703,
   "metrics": {
-    "glucose": {
-      "mean": 140.0,
-      "std": 20.0,
-      "median": 140.0,
-      "ci_lower": 111.5,
-      "ci_upper": 168.5,
-      "min": 110.0,
-      "max": 170.0,
+    "active_tier": {
+      "mean": 4.0,
+      "std": 0.0,
+      "median": 4.0,
+      "ci_lower": 4.0,
+      "ci_upper": 4.0,
+      "min": 4.0,
+      "max": 4.0,
       "n": 7
     },
     "safe_dose": {
@@ -24,6 +24,16 @@
       "max": 0.5,
       "n": 7
     },
+    "glucose": {
+      "mean": 140.0,
+      "std": 20.0,
+      "median": 140.0,
+      "ci_lower": 111.5,
+      "ci_upper": 168.5,
+      "min": 110.0,
+      "max": 170.0,
+      "n": 7
+    },
     "overall_safe": {
       "mean": 1.0,
       "std": 0.0,
@@ -32,16 +42,6 @@
       "ci_upper": 1.0,
       "min": 1.0,
       "max": 1.0,
-      "n": 7
-    },
-    "active_tier": {
-      "mean": 4.0,
-      "std": 0.0,
-      "median": 4.0,
-      "ci_lower": 4.0,
-      "ci_upper": 4.0,
-      "min": 4.0,
-      "max": 4.0,
       "n": 7
     }
   }

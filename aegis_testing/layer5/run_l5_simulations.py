@@ -25,7 +25,7 @@ ACTIVE_WORKERS = DEFAULT_WORKERS
 
 from sim_utils import (
     RESULTS_DIR, get_all_patient_names, simulate_patient, simulate_closed_loop,
-    is_completed, save_results, PatientAction,
+    calibrate_patient_basal, is_completed, save_results, PatientAction,
 )
 from aegis_testing.aegis_core.safety_supervisor import (
     SafetyAction, SafetySupervisor, SafetyTier,
@@ -183,7 +183,7 @@ def run_t5_2(quick=False):
 
 def _closed_loop_worker(args):
     """Worker: closed-loop sim where L5 modifies each dose step-by-step."""
-    patient, meal_name, meals, noise_std, seed = args
+    patient, meal_name, meals, noise_std, seed, basal = args
     t0 = time.time()
     try:
         # 24-hour sim with L5 in-the-loop
@@ -193,6 +193,7 @@ def _closed_loop_worker(args):
             meals=meals,
             noise_std=noise_std,
             seed=seed,
+            basal=basal,
         )
         stl = result["stl"]
         g = result["glucose"]
@@ -226,8 +227,20 @@ def run_t5_3(quick=False):
         meals_cfg = MEALS
         noises = NOISES
 
+    # --- Per-patient basal calibration ---
+    print(f"  │ Calibrating per-patient basal rates...")
+    t_cal = time.time()
+    patient_basals = {}
+    for p in patients:
+        patient_basals[p] = calibrate_patient_basal(p)
+    cal_time = time.time() - t_cal
+    print(f"  │ Calibration complete ({cal_time:.1f}s):")
+    for p, b in patient_basals.items():
+        print(f"  │   {p:<18s} basal={b:.3f} U/min")
+    print(f"  │")
+
     # Build scenarios: patient × meal × noise × seed
-    scenarios = [(p, mn, m, n, s)
+    scenarios = [(p, mn, m, n, s, patient_basals[p])
                  for p in patients for mn, m in meals_cfg.items()
                  for _, n in noises.items()
                  for s in range(n_seeds)]
@@ -238,7 +251,7 @@ def run_t5_3(quick=False):
     print(f"  │ CLOSED-LOOP: controller proposes → L5 verifies → safe dose fed to patient")
     print(f"  │ Patients: {len(patients)} | Meals: {len(meals_cfg)} | "
           f"Noise: {len(noises)} | Seeds: {n_seeds}")
-    print(f"  │ Workers: {workers}")
+    print(f"  │ Workers: {workers} | Per-patient calibrated basals: ✅")
     print(f"  │")
     print(f"  │ {'#':>6}  {'Patient':<14} {'Meal':<10} {'φ₁':>3} {'φ₂':>3} {'φ₃':>3}  "
           f"{'Min BG':>7} {'Max BG':>7} {'TIR':>5} {'Blkd':>5}  {'Time':>5}  {'ETA':>10}")

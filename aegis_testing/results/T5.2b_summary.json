@@ -2,8 +2,18 @@
   "test_id": "T5.2b",
   "test_name": "Float boundary testing",
   "n_runs": 18,
-  "elapsed_seconds": 0.019443035125732422,
+  "elapsed_seconds": 0.018476247787475586,
   "metrics": {
+    "correct": {
+      "mean": 1.0,
+      "std": 0.0,
+      "median": 1.0,
+      "ci_lower": 1.0,
+      "ci_upper": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n": 18
+    },
     "action": {
       "mean": 1.8333333333333333,
       "std": 1.2133516482134197,
@@ -32,16 +42,6 @@
       "ci_upper": 3.0,
       "min": 0.0,
       "max": 3.0,
-      "n": 18
-    },
-    "correct": {
-      "mean": 1.0,
-      "std": 0.0,
-      "median": 1.0,
-      "ci_lower": 1.0,
-      "ci_upper": 1.0,
-      "min": 1.0,
-      "max": 1.0,
       "n": 18
     }
   }
