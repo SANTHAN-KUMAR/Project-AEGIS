@@ -1,0 +1,44 @@
+[
+  {
+    "metrics": {
+      "original_dose": 15.1,
+      "capped_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "original_dose": 16,
+      "capped_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "original_dose": 20,
+      "capped_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "original_dose": 25,
+      "capped_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "original_dose": 50,
+      "capped_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "original_dose": 100,
+      "capped_dose": 15.0
+    },
+    "condition": {}
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "metrics": {
+      "glucose": 80,
+      "expected_zone": 0,
+      "action": 3,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 65,
+      "expected_zone": 2,
+      "action": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 50,
+      "expected_zone": 3,
+      "action": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 45,
+      "expected_zone": 3,
+      "action": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 55,
+      "expected_zone": 2,
+      "action": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 65,
+      "expected_zone": 2,
+      "action": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 75,
+      "expected_zone": 1,
+      "action": 3,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 100,
+      "expected_zone": 1,
+      "action": 3,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120,
+      "expected_zone": 1,
+      "action": 3,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "test_id": "T5.2a",
+  "test_name": "Integer boundary testing",
+  "n_runs": 1967,
+  "elapsed_seconds": 2.1197702884674072,
+  "metrics": {
+    "action": {
+      "mean": 2.304524656837824,
+      "std": 1.0175355582884384,
+      "median": 3.0,
+      "ci_lower": 0.0,
+      "ci_upper": 3.0,
+      "min": 0.0,
+      "max": 3.0,
+      "n": 1967
+    },
+    "glucose": {
+      "mean": 160.0,
+      "std": 81.11719916269298,
+      "median": 160.0,
+      "ci_lower": 27.0,
+      "ci_upper": 293.0,
+      "min": 20.0,
+      "max": 300.0,
+      "n": 1967
+    },
+    "safe_dose": {
+      "mean": 7.1637010676156585,
+      "std": 6.538272147303542,
+      "median": 5.0,
+      "ci_lower": 0.0,
+      "ci_upper": 15.0,
+      "min": 0.0,
+      "max": 15.0,
+      "n": 1967
+    },
+    "dose": {
+      "mean": 10.857142857142858,
+      "std": 8.870956969291443,
+      "median": 10.0,
+      "ci_lower": 0.0,
+      "ci_upper": 25.0,
+      "min": 0.0,
+      "max": 25.0,
+      "n": 1967
+    }
+  }
+}

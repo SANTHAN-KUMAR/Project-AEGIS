@@ -1,0 +1,164 @@
+[
+  {
+    "metrics": {
+      "glucose": 53.5,
+      "action": 0,
+      "expected": 0,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 53.9,
+      "action": 0,
+      "expected": 0,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 53.99,
+      "action": 0,
+      "expected": 0,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 54.0,
+      "action": 1,
+      "expected": 1,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 54.01,
+      "action": 1,
+      "expected": 1,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 54.1,
+      "action": 1,
+      "expected": 1,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 69.5,
+      "action": 1,
+      "expected": 1,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 69.9,
+      "action": 1,
+      "expected": 1,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 69.99,
+      "action": 1,
+      "expected": 1,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 70.0,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 70.01,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 70.1,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 179.9,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 180.0,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 180.1,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 249.9,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 250.0,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 250.1,
+      "action": 3,
+      "expected": 3,
+      "correct": 1
+    },
+    "condition": {}
+  }
+]

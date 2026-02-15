@@ -1,0 +1,146 @@
+[
+  {
+    "metrics": {
+      "threshold": 54,
+      "amplitude": 1,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 54,
+      "amplitude": 2,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 54,
+      "amplitude": 5,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 54,
+      "amplitude": 10,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 70,
+      "amplitude": 1,
+      "transitions": 7,
+      "transitions_per_hour": 3.5
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 70,
+      "amplitude": 2,
+      "transitions": 7,
+      "transitions_per_hour": 3.5
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 70,
+      "amplitude": 5,
+      "transitions": 7,
+      "transitions_per_hour": 3.5
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 70,
+      "amplitude": 10,
+      "transitions": 7,
+      "transitions_per_hour": 3.5
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 180,
+      "amplitude": 1,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 180,
+      "amplitude": 2,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 180,
+      "amplitude": 5,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 180,
+      "amplitude": 10,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 250,
+      "amplitude": 1,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 250,
+      "amplitude": 2,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 250,
+      "amplitude": 5,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "threshold": 250,
+      "amplitude": 10,
+      "transitions": 0,
+      "transitions_per_hour": 0.0
+    },
+    "condition": {}
+  }
+]

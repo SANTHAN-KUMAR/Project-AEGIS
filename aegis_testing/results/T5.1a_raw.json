@@ -1,0 +1,308 @@
+[
+  {
+    "metrics": {
+      "glucose": 20,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 21,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 22,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 23,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 24,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 25,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 26,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 27,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 28,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 29,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 30,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 31,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 32,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 33,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 34,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 35,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 36,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 37,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 38,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 39,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 40,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 41,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 42,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 43,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 44,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 45,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 46,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 47,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 48,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 49,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 50,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 51,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 52,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 53,
+      "active_tier": 1,
+      "safe_dose": 0.0,
+      "action_is_suspend": 1
+    },
+    "condition": {}
+  }
+]

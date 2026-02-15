@@ -1,0 +1,247 @@
+[
+  {
+    "metrics": {
+      "day": 0,
+      "relaxation": 5.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 1,
+      "relaxation": 4.866666666666666
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 2,
+      "relaxation": 4.733333333333333
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 3,
+      "relaxation": 4.6
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 4,
+      "relaxation": 4.466666666666667
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 5,
+      "relaxation": 4.333333333333333
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 6,
+      "relaxation": 4.2
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 7,
+      "relaxation": 4.066666666666666
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 8,
+      "relaxation": 3.9333333333333336
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 9,
+      "relaxation": 3.8
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 10,
+      "relaxation": 3.666666666666667
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 11,
+      "relaxation": 3.533333333333333
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 12,
+      "relaxation": 3.4
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 13,
+      "relaxation": 3.2666666666666666
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 14,
+      "relaxation": 3.1333333333333333
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 15,
+      "relaxation": 3.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 16,
+      "relaxation": 2.8666666666666667
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 17,
+      "relaxation": 2.7333333333333334
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 18,
+      "relaxation": 2.6
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 19,
+      "relaxation": 2.466666666666667
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 20,
+      "relaxation": 2.3333333333333335
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 21,
+      "relaxation": 2.2
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 22,
+      "relaxation": 2.066666666666667
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 23,
+      "relaxation": 1.9333333333333331
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 24,
+      "relaxation": 1.7999999999999998
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 25,
+      "relaxation": 1.6666666666666665
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 26,
+      "relaxation": 1.5333333333333332
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 27,
+      "relaxation": 1.4
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 28,
+      "relaxation": 1.2666666666666666
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 29,
+      "relaxation": 1.1333333333333333
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 30,
+      "relaxation": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 31,
+      "relaxation": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 32,
+      "relaxation": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 33,
+      "relaxation": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 34,
+      "relaxation": 1.0
+    },
+    "condition": {}
+  }
+]

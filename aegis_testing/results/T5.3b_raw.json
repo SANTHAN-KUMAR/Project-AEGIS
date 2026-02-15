@@ -1,0 +1,2402 @@
+[
+  {
+    "metrics": {
+      "base": 118.69021545015713,
+      "noise": 28.767857660247905,
+      "min_glucose": 25.445897972239706,
+      "max_glucose": 229.52504657646688,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -28.554102027760294
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 79.25452429982977,
+      "noise": 12.974390757344032,
+      "min_glucose": 47.18644274193805,
+      "max_glucose": 119.20112700401532,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -6.813557258061948
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 88.10536944624035,
+      "noise": 24.8506297317574,
+      "min_glucose": 21.08603805397712,
+      "max_glucose": 153.52172145203335,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -32.91396194602288
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 81.30827878848332,
+      "noise": 15.211330326767468,
+      "min_glucose": 37.25238152010227,
+      "max_glucose": 119.74628263186683,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -16.74761847989773
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 137.48063206770834,
+      "noise": 16.979546940743276,
+      "min_glucose": 93.4859078427828,
+      "max_glucose": 181.28292785988359,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 39.485907842782794
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 165.2642008196126,
+      "noise": 18.555930137296208,
+      "min_glucose": 111.05582534133016,
+      "max_glucose": 224.51528176941366,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 57.05582534133016
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 185.99932475815478,
+      "noise": 9.633254488217862,
+      "min_glucose": 156.91159573086543,
+      "max_glucose": 216.22605490293392,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 102.91159573086543
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 79.33085480944669,
+      "noise": 22.06543053058506,
+      "min_glucose": 21.86775486925366,
+      "max_glucose": 147.95254666276037,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -32.13224513074634
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 95.38127838434397,
+      "noise": 13.633548806122196,
+      "min_glucose": 59.44668294383114,
+      "max_glucose": 136.08095269525325,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 5.446682943831142
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 163.9559077910446,
+      "noise": 21.4182371180402,
+      "min_glucose": 105.10919758659179,
+      "max_glucose": 248.04899796928817,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 51.10919758659179
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 179.09345134743882,
+      "noise": 9.01698961779613,
+      "min_glucose": 152.12240935241044,
+      "max_glucose": 200.8395148926105,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 98.12240935241044
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 80.55985252486745,
+      "noise": 29.814544887194085,
+      "min_glucose": -6.780326937937076,
+      "max_glucose": 166.079984182609,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -60.780326937937076
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 198.63569333996193,
+      "noise": 22.10785622313362,
+      "min_glucose": 141.08591287316926,
+      "max_glucose": 270.33352643001774,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 87.08591287316926
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 139.9913473073045,
+      "noise": 29.80339098696457,
+      "min_glucose": 55.377175975913076,
+      "max_glucose": 233.93332657906294,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 1.377175975913076
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 144.83648288966455,
+      "noise": 8.152883059385264,
+      "min_glucose": 120.31560813851605,
+      "max_glucose": 163.98822307626926,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 66.31560813851605
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 137.43722012491224,
+      "noise": 6.279137661136898,
+      "min_glucose": 119.62012656501543,
+      "max_glucose": 150.61047004003936,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 65.62012656501543
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 128.25111334679994,
+      "noise": 17.197504881982546,
+      "min_glucose": 73.61973401074914,
+      "max_glucose": 181.16543458415777,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 19.61973401074914
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 91.68235357387763,
+      "noise": 24.935513848541607,
+      "min_glucose": 36.31501475598307,
+      "max_glucose": 169.3043690012728,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -17.68498524401693
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 183.04035195169837,
+      "noise": 24.102389664471982,
+      "min_glucose": 125.57286064873844,
+      "max_glucose": 253.79672263518893,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 71.57286064873844
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 191.52686525769417,
+      "noise": 25.873919376302922,
+      "min_glucose": 118.22526793991683,
+      "max_glucose": 264.603367261333,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 64.22526793991683
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 161.8635278273614,
+      "noise": 28.515999979652847,
+      "min_glucose": 79.18099008802862,
+      "max_glucose": 250.2146344262958,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 25.180990088028622
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 139.85929475770115,
+      "noise": 26.019626798477866,
+      "min_glucose": 69.27812819849133,
+      "max_glucose": 212.19291077334202,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 15.27812819849133
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 158.79904477471615,
+      "noise": 21.51818482772879,
+      "min_glucose": 100.62790184338036,
+      "max_glucose": 212.5607337026671,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 46.62790184338036
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 199.42854623445578,
+      "noise": 11.316575054282058,
+      "min_glucose": 168.78842298227448,
+      "max_glucose": 239.3653641353006,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 114.78842298227448
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 154.538606629556,
+      "noise": 13.225143241555822,
+      "min_glucose": 111.94020393825079,
+      "max_glucose": 195.77038614482794,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 57.94020393825079
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 105.21819902209324,
+      "noise": 26.3852040526072,
+      "min_glucose": 24.884314964057552,
+      "max_glucose": 182.87112988484176,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -29.115685035942448
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 152.45160182708054,
+      "noise": 24.361935481899582,
+      "min_glucose": 62.59588456362303,
+      "max_glucose": 218.76264996177724,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 8.59588456362303
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 175.54202097823594,
+      "noise": 22.972673615119756,
+      "min_glucose": 103.44194791457483,
+      "max_glucose": 241.3636016227067,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 49.441947914574826
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 116.86019378940321,
+      "noise": 15.760547702199172,
+      "min_glucose": 56.39240100100219,
+      "max_glucose": 170.08959839419794,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 2.3924010010021917
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 97.879569812141,
+      "noise": 6.853977644350769,
+      "min_glucose": 80.68323340010237,
+      "max_glucose": 115.60378585512447,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 26.683233400102367
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 136.6494494027455,
+      "noise": 21.893669008679428,
+      "min_glucose": 89.43694808330038,
+      "max_glucose": 205.7846486788303,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 35.43694808330038
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 115.43307370005313,
+      "noise": 28.043185513276647,
+      "min_glucose": 44.74049344414581,
+      "max_glucose": 193.06708829268,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -9.259506555854188
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 128.415671174841,
+      "noise": 22.71447812662498,
+      "min_glucose": 71.13873406803891,
+      "max_glucose": 177.7470353587669,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 17.138734068038914
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 105.64260147649065,
+      "noise": 7.8388635960873465,
+      "min_glucose": 74.89544093479579,
+      "max_glucose": 125.4778241566496,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 20.895440934795786
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 98.56753902169433,
+      "noise": 6.619304988130043,
+      "min_glucose": 80.5467847462711,
+      "max_glucose": 115.13679654338291,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 26.5467847462711
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 118.52964871597536,
+      "noise": 15.438070152688258,
+      "min_glucose": 76.2227533643196,
+      "max_glucose": 163.5178712216027,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 22.2227533643196
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 94.66926255898142,
+      "noise": 28.162515476105533,
+      "min_glucose": 15.514899094644193,
+      "max_glucose": 173.56297273392053,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -38.48510090535581
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 99.48004193559964,
+      "noise": 16.39706471060257,
+      "min_glucose": 46.475457357436284,
+      "max_glucose": 136.09658813509256,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -7.524542642563716
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 125.81456183820069,
+      "noise": 26.540815156138684,
+      "min_glucose": 36.223940895462064,
+      "max_glucose": 197.86801641186128,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -17.776059104537936
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 198.29747663658324,
+      "noise": 27.1733099079293,
+      "min_glucose": 108.05180157782468,
+      "max_glucose": 290.0826198543004,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 54.051801577824676
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 177.82202862586166,
+      "noise": 9.769806636895968,
+      "min_glucose": 148.18053921930306,
+      "max_glucose": 203.2477537797969,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 94.18053921930306
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 88.20510006436578,
+      "noise": 21.767988142676202,
+      "min_glucose": 23.038130234997894,
+      "max_glucose": 144.37286351971005,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -30.961869765002106
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 149.95665151871344,
+      "noise": 29.477804243620056,
+      "min_glucose": 78.32197983898153,
+      "max_glucose": 236.77604510266855,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 24.321979838981534
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 95.97671964437734,
+      "noise": 25.2754027565664,
+      "min_glucose": 33.7882132842122,
+      "max_glucose": 178.984129882099,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -20.211786715787802
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 124.75986537911447,
+      "noise": 25.855960741016,
+      "min_glucose": 52.80374969664726,
+      "max_glucose": 198.25785721321122,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -1.1962503033527412
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 178.66067175339407,
+      "noise": 18.629770727257412,
+      "min_glucose": 132.63278124909772,
+      "max_glucose": 242.5404878029777,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 78.63278124909772
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 135.53236490788356,
+      "noise": 25.311398760077807,
+      "min_glucose": 57.508404490100276,
+      "max_glucose": 216.18903317959294,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 3.5084044901002756
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 110.62789527215983,
+      "noise": 10.634847357920744,
+      "min_glucose": 82.91798419606593,
+      "max_glucose": 137.05882949609054,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 28.91798419606593
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 79.72956679128266,
+      "noise": 16.878679503922065,
+      "min_glucose": 29.872926870047507,
+      "max_glucose": 135.18824429295506,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -24.127073129952493
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 179.5160042795581,
+      "noise": 15.030749990292295,
+      "min_glucose": 137.20258390483414,
+      "max_glucose": 215.76476506887263,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 83.20258390483414
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 147.74238742876275,
+      "noise": 9.295404457531923,
+      "min_glucose": 116.79330298803623,
+      "max_glucose": 170.2219822804181,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 62.79330298803623
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 103.71755675177434,
+      "noise": 23.58288734138178,
+      "min_glucose": 51.204090572584576,
+      "max_glucose": 177.77779644500973,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -2.795909427415424
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 98.00484746894658,
+      "noise": 25.721564329188794,
+      "min_glucose": 4.501810966792107,
+      "max_glucose": 167.47535811001552,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -49.49818903320789
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 111.50904164247842,
+      "noise": 6.8669858204177405,
+      "min_glucose": 88.79373957331833,
+      "max_glucose": 131.24532677642046,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 34.793739573318334
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 177.46282921023072,
+      "noise": 11.77779404838574,
+      "min_glucose": 143.96744644133747,
+      "max_glucose": 230.2165610441802,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 89.96744644133747
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 182.80216321177403,
+      "noise": 12.103741122251101,
+      "min_glucose": 149.10878268111145,
+      "max_glucose": 216.1265404606781,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 95.10878268111145
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 192.5095774154467,
+      "noise": 20.235197924907617,
+      "min_glucose": 133.1441477024739,
+      "max_glucose": 247.72130979958357,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 79.1441477024739
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 181.11419723539663,
+      "noise": 8.74637301463236,
+      "min_glucose": 158.8713555892791,
+      "max_glucose": 203.83235193318532,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 104.87135558927909
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 159.1898753540821,
+      "noise": 5.55807182244294,
+      "min_glucose": 143.8615268052729,
+      "max_glucose": 175.75212077853814,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 89.86152680527289
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 140.8208274373631,
+      "noise": 13.288192275787424,
+      "min_glucose": 106.72173963446764,
+      "max_glucose": 176.2287371479278,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 52.72173963446764
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 133.91303309482646,
+      "noise": 17.79487291752978,
+      "min_glucose": 87.17151166741844,
+      "max_glucose": 189.01833622668474,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 33.17151166741844
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 173.51924653502655,
+      "noise": 27.614775396329208,
+      "min_glucose": 90.80562409353382,
+      "max_glucose": 232.26408681691288,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 36.80562409353382
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 162.80582519962422,
+      "noise": 5.753532943063201,
+      "min_glucose": 143.6126057399382,
+      "max_glucose": 179.04229660240202,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 89.6126057399382
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 105.3146715413952,
+      "noise": 10.80015503204518,
+      "min_glucose": 73.17305944169138,
+      "max_glucose": 137.68487775374285,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 19.17305944169138
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 158.3850454636414,
+      "noise": 12.39809527656583,
+      "min_glucose": 124.39579831728278,
+      "max_glucose": 194.81298106070744,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 70.39579831728278
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 165.2788588920357,
+      "noise": 5.524499870848333,
+      "min_glucose": 151.88600792696639,
+      "max_glucose": 187.0582660520786,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 97.88600792696639
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 90.87201254348268,
+      "noise": 9.750232370781308,
+      "min_glucose": 62.483724270976786,
+      "max_glucose": 118.55899580825516,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 8.483724270976786
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 109.37634257203231,
+      "noise": 17.450259845860835,
+      "min_glucose": 42.08159101361677,
+      "max_glucose": 160.5111929854737,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -11.918408986383227
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 135.3537701641141,
+      "noise": 6.287880648482629,
+      "min_glucose": 114.38436282420417,
+      "max_glucose": 150.39625687618746,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 60.384362824204175
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 83.06060749610509,
+      "noise": 18.859799459172887,
+      "min_glucose": 22.723117870581518,
+      "max_glucose": 151.0092990625617,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -31.276882129418482
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 96.78355834972254,
+      "noise": 15.404812691870113,
+      "min_glucose": 55.81782981445779,
+      "max_glucose": 132.92943124579688,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 1.817829814457788
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 132.53814389498064,
+      "noise": 21.923948439137813,
+      "min_glucose": 70.08718287589548,
+      "max_glucose": 179.20256150597643,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 16.08718287589548
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 81.40550636951593,
+      "noise": 13.468719890986055,
+      "min_glucose": 41.46791632468794,
+      "max_glucose": 115.26106614862836,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -12.532083675312059
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 102.659317510602,
+      "noise": 23.047833732795894,
+      "min_glucose": 28.607696904265495,
+      "max_glucose": 159.28794739938058,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -25.392303095734505
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 193.12549447212047,
+      "noise": 10.032861273290884,
+      "min_glucose": 170.6099323874677,
+      "max_glucose": 229.3576686616404,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 116.6099323874677
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 185.03579378600458,
+      "noise": 24.720866338129586,
+      "min_glucose": 125.23282570895918,
+      "max_glucose": 242.99187211143297,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 71.23282570895918
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 75.09258192068478,
+      "noise": 27.717613104919828,
+      "min_glucose": 7.912091488568819,
+      "max_glucose": 146.19252967146588,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -46.08790851143118
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 147.5839397727139,
+      "noise": 11.92857103948933,
+      "min_glucose": 103.98398062181508,
+      "max_glucose": 182.57766384062919,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 49.98398062181508
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 169.43141638365535,
+      "noise": 6.964289557291793,
+      "min_glucose": 149.36024081456884,
+      "max_glucose": 187.96561007871833,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 95.36024081456884
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 138.50235925468428,
+      "noise": 22.171163434293153,
+      "min_glucose": 76.70492095202596,
+      "max_glucose": 192.71043926554972,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 22.704920952025958
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 100.2078041511543,
+      "noise": 6.468073359358285,
+      "min_glucose": 83.46610720093629,
+      "max_glucose": 120.49611961697842,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 29.466107200936293
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 172.09809632244162,
+      "noise": 5.3999286760185266,
+      "min_glucose": 159.41905766544758,
+      "max_glucose": 183.6556110782153,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 105.41905766544758
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 167.0924124474899,
+      "noise": 19.911891984876103,
+      "min_glucose": 122.10594935786109,
+      "max_glucose": 214.5214436711793,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 68.10594935786109
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 145.0242544302917,
+      "noise": 9.070259699496546,
+      "min_glucose": 124.91659817484151,
+      "max_glucose": 172.5822577060471,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 70.91659817484151
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 134.02867666329135,
+      "noise": 14.665721691234602,
+      "min_glucose": 82.77131613199435,
+      "max_glucose": 176.07686730321163,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 28.771316131994354
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 72.68083409657548,
+      "noise": 14.963684984608335,
+      "min_glucose": 27.930416111129325,
+      "max_glucose": 109.36618386100722,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -26.069583888870675
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 122.77894471321926,
+      "noise": 9.91365660545191,
+      "min_glucose": 94.81979106236327,
+      "max_glucose": 146.61756619268493,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 40.819791062363265
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 185.90608834312874,
+      "noise": 26.140419172239376,
+      "min_glucose": 106.94696760492495,
+      "max_glucose": 251.02836395166003,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 52.94696760492495
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 178.02000629637848,
+      "noise": 20.303490864080427,
+      "min_glucose": 129.1641601044463,
+      "max_glucose": 243.30332691378567,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 75.1641601044463
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 156.39197631433285,
+      "noise": 11.129660730388217,
+      "min_glucose": 122.38732414833022,
+      "max_glucose": 189.29895107652177,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 68.38732414833022
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 136.17208627947804,
+      "noise": 12.654699376921512,
+      "min_glucose": 106.13957745788144,
+      "max_glucose": 167.47676474364425,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 52.139577457881444
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 142.09381274797252,
+      "noise": 8.178791614996893,
+      "min_glucose": 120.59568608504364,
+      "max_glucose": 165.0570034320933,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 66.59568608504364
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 114.98021465703863,
+      "noise": 5.468528966388307,
+      "min_glucose": 98.5235454485316,
+      "max_glucose": 132.2549793091961,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 44.52354544853161
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 192.127559436887,
+      "noise": 24.860785864225544,
+      "min_glucose": 116.16023358881536,
+      "max_glucose": 255.5683095877954,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 62.16023358881536
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 185.34553181353266,
+      "noise": 15.204100022492945,
+      "min_glucose": 147.25873535525105,
+      "max_glucose": 232.96973191349483,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 93.25873535525105
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 89.12555893902993,
+      "noise": 29.865697962643303,
+      "min_glucose": 5.029413190929773,
+      "max_glucose": 177.56636341387872,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -48.97058680907023
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 100.20160782297299,
+      "noise": 16.1005170064056,
+      "min_glucose": 56.06337581344244,
+      "max_glucose": 146.93577773790082,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 2.063375813442441
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 134.54837410798302,
+      "noise": 5.176088837970187,
+      "min_glucose": 121.56764375518738,
+      "max_glucose": 147.51094035416102,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 67.56764375518738
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 73.18027594547944,
+      "noise": 20.774621630186633,
+      "min_glucose": 16.869279978756815,
+      "max_glucose": 149.8723781585903,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -37.130720021243185
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 94.02785107490294,
+      "noise": 22.37524724387783,
+      "min_glucose": 16.758199642921625,
+      "max_glucose": 155.19932532839277,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -37.241800357078375
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 107.30672730476867,
+      "noise": 8.571831483954274,
+      "min_glucose": 84.52311414562182,
+      "max_glucose": 136.06156509726023,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 30.52311414562182
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 76.82619159027789,
+      "noise": 24.386171751376597,
+      "min_glucose": -0.2118712857515277,
+      "max_glucose": 146.6213146577889,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -54.21187128575153
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 135.6567118796627,
+      "noise": 19.11214340720361,
+      "min_glucose": 70.1484049959551,
+      "max_glucose": 184.70545874249373,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 16.148404995955104
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 168.94710196515467,
+      "noise": 24.84583914370938,
+      "min_glucose": 92.0933144102753,
+      "max_glucose": 233.59185567478534,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 38.0933144102753
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 164.65409074473206,
+      "noise": 5.210038106955968,
+      "min_glucose": 146.24797336197787,
+      "max_glucose": 178.75490035792535,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 92.24797336197787
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 176.56838937065083,
+      "noise": 12.968913072919248,
+      "min_glucose": 138.80083915658955,
+      "max_glucose": 219.9909973100294,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 84.80083915658955
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 167.12396311586156,
+      "noise": 16.450390456127614,
+      "min_glucose": 112.19024214376138,
+      "max_glucose": 213.73746756926437,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 58.19024214376138
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 174.9213749155997,
+      "noise": 11.67174118656888,
+      "min_glucose": 145.424952049919,
+      "max_glucose": 204.4941919548134,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 91.424952049919
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 129.7226492441848,
+      "noise": 19.858102807155408,
+      "min_glucose": 66.11028280974827,
+      "max_glucose": 178.82124328227331,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 12.11028280974827
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 90.09883430640767,
+      "noise": 17.884824284831176,
+      "min_glucose": 35.0028673788274,
+      "max_glucose": 135.62255821484683,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -18.997132621172597
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 89.13016718290537,
+      "noise": 7.163234284944488,
+      "min_glucose": 70.8600786228957,
+      "max_glucose": 107.93098299626394,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 16.8600786228957
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 123.55755679930888,
+      "noise": 5.711580542089147,
+      "min_glucose": 106.83941875730642,
+      "max_glucose": 140.74488252875383,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 52.83941875730642
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 105.83164246377316,
+      "noise": 29.932437768436614,
+      "min_glucose": -27.834767279795074,
+      "max_glucose": 203.5397851060202,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -81.83476727979507
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 88.62626062659449,
+      "noise": 18.80674408424181,
+      "min_glucose": 25.28880008182739,
+      "max_glucose": 156.37595807214967,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -28.71119991817261
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 89.69171986818742,
+      "noise": 6.556895262773905,
+      "min_glucose": 74.79698620916582,
+      "max_glucose": 109.37979772226116,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 20.796986209165823
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 135.0289690581564,
+      "noise": 21.161430456933033,
+      "min_glucose": 79.7997651633992,
+      "max_glucose": 213.91525513839866,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 25.7997651633992
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 92.33899559484937,
+      "noise": 6.692391554611519,
+      "min_glucose": 69.34352067711681,
+      "max_glucose": 109.35128233223358,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 15.343520677116814
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 150.07539051595063,
+      "noise": 26.74720345710094,
+      "min_glucose": 72.83979536054979,
+      "max_glucose": 239.28448737274582,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 18.839795360549786
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 83.83574045293628,
+      "noise": 16.907800237736254,
+      "min_glucose": 29.372883867161562,
+      "max_glucose": 126.5274355283407,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -24.627116132838438
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 196.0779831542562,
+      "noise": 10.984121727224363,
+      "min_glucose": 166.36917946573482,
+      "max_glucose": 230.55839341602834,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 112.36917946573482
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 154.03978286870648,
+      "noise": 8.160461121224603,
+      "min_glucose": 127.5017231183119,
+      "max_glucose": 170.95052113152647,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 73.5017231183119
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 197.4267723174357,
+      "noise": 16.40628822566627,
+      "min_glucose": 146.87665508611377,
+      "max_glucose": 232.07328223177342,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 92.87665508611377
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 155.53144264119902,
+      "noise": 19.764282172759856,
+      "min_glucose": 97.08783272104226,
+      "max_glucose": 204.94731580003622,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 43.08783272104226
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 151.49405488910028,
+      "noise": 14.117002006843009,
+      "min_glucose": 113.83330371863806,
+      "max_glucose": 186.02337968204233,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 59.833303718638064
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 121.94990504216138,
+      "noise": 12.684358181000722,
+      "min_glucose": 90.32052655719644,
+      "max_glucose": 160.25226708196146,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 36.320526557196445
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 147.36466516644663,
+      "noise": 20.02087491881729,
+      "min_glucose": 98.25691550078521,
+      "max_glucose": 204.0745878258166,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 44.25691550078521
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 105.5093750234515,
+      "noise": 27.71293987264836,
+      "min_glucose": 42.73739956145481,
+      "max_glucose": 184.40771158308232,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -11.262600438545192
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 172.18659870574743,
+      "noise": 11.189914089324741,
+      "min_glucose": 137.86936199857584,
+      "max_glucose": 200.21362007149983,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 83.86936199857584
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 115.783863463281,
+      "noise": 18.171075898685725,
+      "min_glucose": 67.89502712630278,
+      "max_glucose": 175.3904362779496,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 13.895027126302779
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 73.9182673092293,
+      "noise": 8.812255401969741,
+      "min_glucose": 45.89643861239906,
+      "max_glucose": 95.81302950927414,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -8.10356138760094
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 160.75550195559805,
+      "noise": 19.722253008934942,
+      "min_glucose": 109.38968330895959,
+      "max_glucose": 207.29470212989804,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 55.38968330895959
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 164.87893894782385,
+      "noise": 24.06843669242619,
+      "min_glucose": 98.77490891227595,
+      "max_glucose": 227.1873829117481,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 44.77490891227595
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 164.45884792568938,
+      "noise": 11.413005003270367,
+      "min_glucose": 132.9894753422147,
+      "max_glucose": 198.63550567854048,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 78.98947534221469
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 72.19373759016875,
+      "noise": 10.087708217562806,
+      "min_glucose": 39.799901225258026,
+      "max_glucose": 99.86637579661858,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -14.200098774741974
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 90.89749414635463,
+      "noise": 22.319405292670513,
+      "min_glucose": 36.74333193802312,
+      "max_glucose": 149.58052719063102,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -17.25666806197688
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 176.80217325806507,
+      "noise": 28.243249492610712,
+      "min_glucose": 79.99404299742064,
+      "max_glucose": 264.44666112514346,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 25.994042997420635
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 191.63774787595898,
+      "noise": 6.135649655746199,
+      "min_glucose": 170.48176455621592,
+      "max_glucose": 209.13638680047276,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 116.48176455621592
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 74.6161745983236,
+      "noise": 7.729846875109443,
+      "min_glucose": 55.59387500569184,
+      "max_glucose": 100.09301138855385,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 1.5938750056918423
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 138.91625351049626,
+      "noise": 15.40670098144227,
+      "min_glucose": 91.73094056755731,
+      "max_glucose": 180.67600011202353,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 37.73094056755731
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 107.18544036467625,
+      "noise": 19.64955035059039,
+      "min_glucose": 55.84582051321202,
+      "max_glucose": 157.71811406291442,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 1.8458205132120185
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 179.6466819592524,
+      "noise": 17.721412233308925,
+      "min_glucose": 137.49637667935343,
+      "max_glucose": 229.68717018542307,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 83.49637667935343
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 179.53280706847994,
+      "noise": 20.25029355933573,
+      "min_glucose": 125.1468324467146,
+      "max_glucose": 240.48340010633206,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 71.1468324467146
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 83.7331662486044,
+      "noise": 13.692246377234818,
+      "min_glucose": 53.109839604495846,
+      "max_glucose": 118.23712805438143,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -0.8901603955041537
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 172.99782655513985,
+      "noise": 27.902608924083378,
+      "min_glucose": 88.78221879842921,
+      "max_glucose": 271.6762862687128,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 34.78221879842921
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 153.5008846360193,
+      "noise": 21.156176182522074,
+      "min_glucose": 90.23532199923656,
+      "max_glucose": 208.56901581359358,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 36.23532199923656
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 175.0465154701034,
+      "noise": 18.09483981704572,
+      "min_glucose": 125.77813812067959,
+      "max_glucose": 223.86142863509184,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 71.77813812067959
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 167.44914605875366,
+      "noise": 29.33954529837401,
+      "min_glucose": 79.50816554193148,
+      "max_glucose": 245.0518931211983,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 25.508165541931476
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 102.04539123627484,
+      "noise": 5.114229240482108,
+      "min_glucose": 85.68549518450507,
+      "max_glucose": 118.37516246042333,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 31.685495184505072
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 107.40565889950727,
+      "noise": 14.814688895086213,
+      "min_glucose": 53.60554116078404,
+      "max_glucose": 153.81170438800058,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -0.39445883921595737
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 105.83799741434177,
+      "noise": 20.247884280132958,
+      "min_glucose": 37.11840909507988,
+      "max_glucose": 165.23320176787476,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -16.881590904920117
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 161.90461137820546,
+      "noise": 19.531311537640082,
+      "min_glucose": 78.00999189240284,
+      "max_glucose": 224.8526308519119,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 24.009991892402837
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 151.96884554097974,
+      "noise": 6.191984843544919,
+      "min_glucose": 135.8124174140485,
+      "max_glucose": 165.9938340967586,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 81.8124174140485
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 165.17963679660252,
+      "noise": 23.653199761139664,
+      "min_glucose": 105.85978892554883,
+      "max_glucose": 225.23606465278118,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 51.85978892554883
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 93.60572811032463,
+      "noise": 28.440304519454,
+      "min_glucose": 20.96169366988316,
+      "max_glucose": 189.7514336420005,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -33.03830633011684
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 184.44816759949168,
+      "noise": 24.113383026001184,
+      "min_glucose": 122.91493486684823,
+      "max_glucose": 238.55647103443314,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 68.91493486684823
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 166.8403974335594,
+      "noise": 16.483139104616885,
+      "min_glucose": 121.01096866792668,
+      "max_glucose": 215.48538148255238,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 67.01096866792668
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 163.74552873666386,
+      "noise": 16.290174286300545,
+      "min_glucose": 111.0143373124602,
+      "max_glucose": 205.93065646785692,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 57.0143373124602
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 124.26700839878347,
+      "noise": 25.398762451630684,
+      "min_glucose": 50.49117805227793,
+      "max_glucose": 185.30855695659466,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -3.508821947722069
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 75.67336161146375,
+      "noise": 20.82760010049339,
+      "min_glucose": 17.80573472108822,
+      "max_glucose": 127.28800042802212,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -36.19426527891178
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 160.61874538906457,
+      "noise": 13.476785746252585,
+      "min_glucose": 117.4853502228629,
+      "max_glucose": 192.04819598870807,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 63.485350222862905
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 125.84522872252083,
+      "noise": 15.020458728355303,
+      "min_glucose": 76.45560624830213,
+      "max_glucose": 167.3753422721723,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 22.455606248302132
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 79.1934246706322,
+      "noise": 18.602231687923094,
+      "min_glucose": 24.273466941112638,
+      "max_glucose": 125.29983742673764,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -29.726533058887362
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 152.0690970342457,
+      "noise": 27.681720144228272,
+      "min_glucose": 71.09185421216459,
+      "max_glucose": 240.1920238575828,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 17.09185421216459
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 152.34250635367567,
+      "noise": 13.341953221810689,
+      "min_glucose": 112.77086337055655,
+      "max_glucose": 189.71626223179825,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 58.770863370556555
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 128.60338640171074,
+      "noise": 29.414687451429593,
+      "min_glucose": 49.818848972700906,
+      "max_glucose": 215.5394688163455,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -4.181151027299094
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 133.24173978873662,
+      "noise": 5.8001345421809525,
+      "min_glucose": 117.41099032203901,
+      "max_glucose": 145.43875032702454,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 63.41099032203901
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 131.2942924770023,
+      "noise": 21.01255149702275,
+      "min_glucose": 63.07413630171615,
+      "max_glucose": 191.6313167162122,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 9.074136301716152
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 104.37739097050525,
+      "noise": 7.429905553478049,
+      "min_glucose": 85.96977299581984,
+      "max_glucose": 127.15395886717927,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 31.969772995819838
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 177.82941511626643,
+      "noise": 28.15939245790607,
+      "min_glucose": 102.50151888908557,
+      "max_glucose": 255.95234029860075,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 48.501518889085574
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 141.16817147697313,
+      "noise": 19.91680390098485,
+      "min_glucose": 76.13380620525827,
+      "max_glucose": 198.56038994935378,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 22.133806205258267
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 152.4876904505676,
+      "noise": 29.00723143413403,
+      "min_glucose": 63.57650070132594,
+      "max_glucose": 239.0459799107246,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 9.57650070132594
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 167.25522979904395,
+      "noise": 15.655386613408233,
+      "min_glucose": 119.09619017217645,
+      "max_glucose": 208.74213858636443,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 65.09619017217645
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 94.68235729110503,
+      "noise": 15.93844974440403,
+      "min_glucose": 54.753562126287626,
+      "max_glucose": 141.1571292282319,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 0.7535621262876262
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 199.3308421010364,
+      "noise": 26.898545812484997,
+      "min_glucose": 120.72800273966288,
+      "max_glucose": 290.8363477595132,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 66.72800273966288
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 137.41883591662938,
+      "noise": 20.693420830915677,
+      "min_glucose": 75.03973755146176,
+      "max_glucose": 198.89764834874836,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 21.039737551461755
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 188.22444855484406,
+      "noise": 16.686092268515253,
+      "min_glucose": 144.87248600971606,
+      "max_glucose": 231.7737078252935,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 90.87248600971606
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 198.9806107118306,
+      "noise": 15.208890233514861,
+      "min_glucose": 159.1975253279864,
+      "max_glucose": 239.44781065993237,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 105.1975253279864
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 143.0342606097662,
+      "noise": 27.930994133639086,
+      "min_glucose": 50.378262038434,
+      "max_glucose": 216.4055548031485,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -3.621737961565998
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 114.16741110272045,
+      "noise": 12.403709184338275,
+      "min_glucose": 78.25458309228401,
+      "max_glucose": 147.7622809303751,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 24.254583092284008
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 155.64725370966545,
+      "noise": 16.708393629176854,
+      "min_glucose": 113.09918887218842,
+      "max_glucose": 204.83087807952282,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 59.09918887218842
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 97.28815546703582,
+      "noise": 25.8488708360488,
+      "min_glucose": 39.8208953012521,
+      "max_glucose": 152.82072590685908,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -14.1791046987479
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 87.40347631549241,
+      "noise": 22.525566252372947,
+      "min_glucose": 27.84855055006078,
+      "max_glucose": 154.96642484470289,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -26.15144944993922
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 96.2012764693586,
+      "noise": 14.813416322390168,
+      "min_glucose": 45.51895574333374,
+      "max_glucose": 151.68313825859684,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -8.481044256666259
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 154.90647741578067,
+      "noise": 26.551362433373214,
+      "min_glucose": 69.27020383320357,
+      "max_glucose": 227.89637811361052,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 15.270203833203567
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 110.3913009745481,
+      "noise": 5.886571434113045,
+      "min_glucose": 94.19338056972673,
+      "max_glucose": 123.3694765757548,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 40.19338056972673
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 154.14782719463696,
+      "noise": 17.91669789688808,
+      "min_glucose": 93.08280102802436,
+      "max_glucose": 197.851222187044,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 39.08280102802436
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 173.92012237016434,
+      "noise": 5.771109443393001,
+      "min_glucose": 154.18347067835418,
+      "max_glucose": 190.1178950034743,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 100.18347067835418
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 169.89051931510585,
+      "noise": 13.741670477505545,
+      "min_glucose": 130.28332118818025,
+      "max_glucose": 212.77795160484453,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 76.28332118818025
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 138.87222634271396,
+      "noise": 20.60760262670324,
+      "min_glucose": 71.30898727658342,
+      "max_glucose": 199.14996098724447,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 17.308987276583423
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 93.86887951816107,
+      "noise": 29.60849619202253,
+      "min_glucose": 14.745080605893605,
+      "max_glucose": 187.67570112532212,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -39.254919394106395
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 174.8393250091251,
+      "noise": 11.001570040097583,
+      "min_glucose": 140.17001504099824,
+      "max_glucose": 200.13858384576983,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 86.17001504099824
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 129.6252517739665,
+      "noise": 6.504379599679492,
+      "min_glucose": 107.38290400315901,
+      "max_glucose": 150.52582285863335,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 53.38290400315901
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 162.68794921366384,
+      "noise": 12.03051404431227,
+      "min_glucose": 132.60497158515517,
+      "max_glucose": 194.5926283588331,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 78.60497158515517
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 149.2469044835742,
+      "noise": 29.79753717554057,
+      "min_glucose": 76.18496072707006,
+      "max_glucose": 245.52475086924827,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 22.184960727070063
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 190.84752833732603,
+      "noise": 7.96372806382221,
+      "min_glucose": 171.01480284306166,
+      "max_glucose": 210.22334604066097,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 117.01480284306166
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 146.1837765219557,
+      "noise": 28.92055041896941,
+      "min_glucose": 58.42560745240766,
+      "max_glucose": 214.38388733836172,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 4.425607452407661
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 135.53430570193788,
+      "noise": 21.761256929629536,
+      "min_glucose": 63.11294360896305,
+      "max_glucose": 196.25284663075158,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 9.11294360896305
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 191.16042682940446,
+      "noise": 20.85379811326011,
+      "min_glucose": 135.28565211398035,
+      "max_glucose": 263.55541875889963,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 81.28565211398035
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 93.4853364448931,
+      "noise": 15.802023628908827,
+      "min_glucose": 52.71104270367076,
+      "max_glucose": 136.2881700674806,
+      "hypo_satisfied": 0,
+      "hyper_satisfied": 1,
+      "robustness_hypo": -1.2889572963292366
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "base": 170.1043570375885,
+      "noise": 8.489588824078641,
+      "min_glucose": 148.42771065733945,
+      "max_glucose": 194.3816343043287,
+      "hypo_satisfied": 1,
+      "hyper_satisfied": 1,
+      "robustness_hypo": 94.42771065733945
+    },
+    "condition": {}
+  }
+]

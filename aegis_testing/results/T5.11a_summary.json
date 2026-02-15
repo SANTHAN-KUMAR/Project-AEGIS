@@ -1,0 +1,48 @@
+{
+  "test_id": "T5.11a",
+  "test_name": "Escalation on glucose drop",
+  "n_runs": 9,
+  "elapsed_seconds": 0.014030694961547852,
+  "metrics": {
+    "action": {
+      "mean": 1.5555555555555556,
+      "std": 1.3425606637327303,
+      "median": 1.0,
+      "ci_lower": 0.0,
+      "ci_upper": 3.0,
+      "min": 0.0,
+      "max": 3.0,
+      "n": 9
+    },
+    "glucose": {
+      "mean": 70.33333333333333,
+      "std": 26.343879744638983,
+      "median": 68.0,
+      "ci_lower": 33.0,
+      "ci_upper": 116.0,
+      "min": 30.0,
+      "max": 120.0,
+      "n": 9
+    },
+    "expected": {
+      "mean": 1.5555555555555556,
+      "std": 1.3425606637327303,
+      "median": 1.0,
+      "ci_lower": 0.0,
+      "ci_upper": 3.0,
+      "min": 0.0,
+      "max": 3.0,
+      "n": 9
+    },
+    "strictness": {
+      "mean": 1.4444444444444444,
+      "std": 1.3425606637327303,
+      "median": 2.0,
+      "ci_lower": 0.0,
+      "ci_upper": 3.0,
+      "min": 0.0,
+      "max": 3.0,
+      "n": 9
+    }
+  }
+}

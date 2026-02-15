@@ -1,0 +1,72 @@
+[
+  {
+    "metrics": {
+      "batch": 0,
+      "latency_ms": 0.9758460000739433
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 1000,
+      "latency_ms": 0.8718339995539282
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 2000,
+      "latency_ms": 1.3025869993725792
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 3000,
+      "latency_ms": 1.3522770004783524
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 4000,
+      "latency_ms": 1.3034779985900968
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 5000,
+      "latency_ms": 1.326558000073419
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 6000,
+      "latency_ms": 1.330008999502752
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 7000,
+      "latency_ms": 1.2971539999853121
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 8000,
+      "latency_ms": 1.2517029990704032
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "batch": 9000,
+      "latency_ms": 1.240244000655366
+    },
+    "condition": {}
+  }
+]

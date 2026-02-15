@@ -1,0 +1,218 @@
+[
+  {
+    "metrics": {
+      "step": 0,
+      "glucose": 71.0,
+      "active_tier": 2,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 1,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 2,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 3,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 4,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 5,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 6,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 7,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 8,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 9,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 10,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 11,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 12,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 13,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 14,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 15,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 16,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 17,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 18,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 19,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 20,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 21,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 22,
+      "glucose": 71.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "step": 23,
+      "glucose": 69.0,
+      "active_tier": 1,
+      "transition": 0
+    },
+    "condition": {}
+  }
+]

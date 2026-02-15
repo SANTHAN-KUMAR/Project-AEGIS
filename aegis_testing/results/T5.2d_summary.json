@@ -1,0 +1,28 @@
+{
+  "test_id": "T5.2d",
+  "test_name": "Max bolus capping",
+  "n_runs": 6,
+  "elapsed_seconds": 0.006453514099121094,
+  "metrics": {
+    "original_dose": {
+      "mean": 37.68333333333333,
+      "std": 30.245683805939798,
+      "median": 22.5,
+      "ci_lower": 15.2125,
+      "ci_upper": 93.75,
+      "min": 15.1,
+      "max": 100.0,
+      "n": 6
+    },
+    "capped_dose": {
+      "mean": 15.0,
+      "std": 0.0,
+      "median": 15.0,
+      "ci_lower": 15.0,
+      "ci_upper": 15.0,
+      "min": 15.0,
+      "max": 15.0,
+      "n": 6
+    }
+  }
+}

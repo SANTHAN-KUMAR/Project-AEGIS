@@ -1,0 +1,272 @@
+[
+  {
+    "metrics": {
+      "dose": 0.0,
+      "p_harm": 0.123469642015434,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 0.5,
+      "p_harm": 0.13515082699301914,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 1.0,
+      "p_harm": 0.2031440007678119,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 1.5,
+      "p_harm": 0.40785767743548484,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 2.0,
+      "p_harm": 0.7275244310700157,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 2.5,
+      "p_harm": 0.9867212805876582,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 3.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 3.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 4.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 4.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 5.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 5.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 6.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 6.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 7.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 7.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 8.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 8.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 9.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 9.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 10.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 10.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 11.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 11.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 12.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 12.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 13.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 13.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 14.0,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "dose": 14.5,
+      "p_harm": 1.0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  }
+]

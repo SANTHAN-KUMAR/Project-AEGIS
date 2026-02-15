@@ -1,0 +1,322 @@
+[
+  {
+    "metrics": {
+      "glucose": 40,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 41,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 42,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 43,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 44,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 45,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 46,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 47,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 48,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 49,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 50,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 51,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 52,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 53,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 54,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 55,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 56,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 57,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 58,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 59,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 60,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 61,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 62,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 63,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 64,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 65,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 66,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 67,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 68,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 69,
+      "proposed_dose": 20.0,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 70,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 71,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 72,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 73,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 74,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 75,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 76,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 77,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 78,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 79,
+      "proposed_dose": 20.0,
+      "safe_dose": 15.0
+    },
+    "condition": {}
+  }
+]

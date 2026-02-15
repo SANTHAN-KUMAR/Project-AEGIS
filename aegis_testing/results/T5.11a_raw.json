@@ -1,0 +1,83 @@
+[
+  {
+    "metrics": {
+      "glucose": 120,
+      "action": 3,
+      "expected": 3,
+      "strictness": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 100,
+      "action": 3,
+      "expected": 3,
+      "strictness": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85,
+      "action": 3,
+      "expected": 3,
+      "strictness": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 72,
+      "action": 3,
+      "expected": 3,
+      "strictness": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 68,
+      "action": 1,
+      "expected": 1,
+      "strictness": 2
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 60,
+      "action": 1,
+      "expected": 1,
+      "strictness": 2
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 53,
+      "action": 0,
+      "expected": 0,
+      "strictness": 3
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 45,
+      "action": 0,
+      "expected": 0,
+      "strictness": 3
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 30,
+      "action": 0,
+      "expected": 0,
+      "strictness": 3
+    },
+    "condition": {}
+  }
+]

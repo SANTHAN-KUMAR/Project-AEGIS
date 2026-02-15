@@ -1,0 +1,130 @@
+[
+  {
+    "metrics": {
+      "glucose": 54,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 55,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 56,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 57,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 58,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 59,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 60,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 61,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 62,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 63,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 64,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 65,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 66,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 67,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 68,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 69,
+      "active_tier": 1,
+      "safe_dose": 0.0
+    },
+    "condition": {}
+  }
+]

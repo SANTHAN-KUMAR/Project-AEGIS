@@ -1,0 +1,37 @@
+[
+  {
+    "metrics": {
+      "glucose": 200,
+      "safe_dose": 2.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 250,
+      "safe_dose": 2.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 300,
+      "safe_dose": 2.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 350,
+      "safe_dose": 2.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 400,
+      "safe_dose": 2.0
+    },
+    "condition": {}
+  }
+]

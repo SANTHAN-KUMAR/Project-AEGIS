@@ -1,0 +1,65 @@
+[
+  {
+    "metrics": {
+      "day": 0,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 5,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 10,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 15,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 20,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 25,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "day": 30,
+      "seldonian_safe": 0,
+      "safe_dose": 0.0,
+      "p_harm": 1.0
+    },
+    "condition": {}
+  }
+]

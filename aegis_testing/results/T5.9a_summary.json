@@ -1,0 +1,48 @@
+{
+  "test_id": "T5.9a",
+  "test_name": "Oscillation at 70 mg/dL",
+  "n_runs": 24,
+  "elapsed_seconds": 0.03726029396057129,
+  "metrics": {
+    "transition": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 24
+    },
+    "step": {
+      "mean": 11.5,
+      "std": 6.922186552431729,
+      "median": 11.5,
+      "ci_lower": 0.5750000000000001,
+      "ci_upper": 22.425,
+      "min": 0.0,
+      "max": 23.0,
+      "n": 24
+    },
+    "glucose": {
+      "mean": 70.0,
+      "std": 1.0,
+      "median": 70.0,
+      "ci_lower": 69.0,
+      "ci_upper": 71.0,
+      "min": 69.0,
+      "max": 71.0,
+      "n": 24
+    },
+    "active_tier": {
+      "mean": 1.0416666666666667,
+      "std": 0.19982631347136331,
+      "median": 1.0,
+      "ci_lower": 1.0,
+      "ci_upper": 1.4250000000000007,
+      "min": 1.0,
+      "max": 2.0,
+      "n": 24
+    }
+  }
+}

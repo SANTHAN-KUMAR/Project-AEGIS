@@ -1,0 +1,38 @@
+{
+  "test_id": "T5.1b",
+  "test_name": "Tier 1 block overrides Tier 2/3",
+  "n_runs": 16,
+  "elapsed_seconds": 0.01767277717590332,
+  "metrics": {
+    "glucose": {
+      "mean": 61.5,
+      "std": 4.6097722286464435,
+      "median": 61.5,
+      "ci_lower": 54.375,
+      "ci_upper": 68.625,
+      "min": 54.0,
+      "max": 69.0,
+      "n": 16
+    },
+    "safe_dose": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 16
+    },
+    "active_tier": {
+      "mean": 1.0,
+      "std": 0.0,
+      "median": 1.0,
+      "ci_lower": 1.0,
+      "ci_upper": 1.0,
+      "min": 1.0,
+      "max": 1.0,
+      "n": 16
+    }
+  }
+}

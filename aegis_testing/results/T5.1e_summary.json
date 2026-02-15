@@ -1,0 +1,48 @@
+{
+  "test_id": "T5.1e",
+  "test_name": "Exhaustive tier priority matrix",
+  "n_runs": 281,
+  "elapsed_seconds": 0.30595922470092773,
+  "metrics": {
+    "action": {
+      "mean": 2.5231316725978647,
+      "std": 1.0437061736755113,
+      "median": 3.0,
+      "ci_lower": 0.0,
+      "ci_upper": 3.0,
+      "min": 0.0,
+      "max": 3.0,
+      "n": 281
+    },
+    "glucose": {
+      "mean": 160.0,
+      "std": 81.11719916269298,
+      "median": 160.0,
+      "ci_lower": 27.0,
+      "ci_upper": 293.0,
+      "min": 20.0,
+      "max": 300.0,
+      "n": 281
+    },
+    "safe_dose": {
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "ci_lower": 0.0,
+      "ci_upper": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 281
+    },
+    "active_tier": {
+      "mean": 2.2562277580071175,
+      "std": 0.7392205220059572,
+      "median": 2.0,
+      "ci_lower": 1.0,
+      "ci_upper": 3.0,
+      "min": 1.0,
+      "max": 3.0,
+      "n": 281
+    }
+  }
+}

@@ -1,0 +1,5002 @@
+[
+  {
+    "metrics": {
+      "glucose": 106.21780831931537,
+      "dose": 9.50714306409916,
+      "safe_dose": 0.0,
+      "actual_glucose": 111.31204796956655,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.53119645161817,
+      "dose": 0.884925020519195,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.5711517885722,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 102.00491867534286,
+      "dose": 5.085706911647028,
+      "safe_dose": 0.0,
+      "actual_glucose": 115.23352925817605,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.76933234668807,
+      "dose": 1.448948720912231,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.77253116149615,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.31400998662296,
+      "dose": 8.985541885270793,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.63032816068018,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.7220857672481,
+      "dose": 5.700611700893649,
+      "safe_dose": 0.0,
+      "actual_glucose": 123.88107810121534,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.84445851270746,
+      "dose": 6.374299014982066,
+      "safe_dose": 0.0,
+      "actual_glucose": 113.15710450971918,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.00429068914244,
+      "dose": 9.402302414249576,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.98919423935429,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.24411751139142,
+      "dose": 0.1083765148029836,
+      "safe_dose": 0.0,
+      "actual_glucose": 67.29533729882672,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.80193897326222,
+      "dose": 2.235958385194526,
+      "safe_dose": 0.0,
+      "actual_glucose": 123.37177556632317,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 83.9462847655649,
+      "dose": 8.647223762550531,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.82090330607065,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 148.6022802699834,
+      "dose": 4.926180939928696,
+      "safe_dose": 0.0,
+      "actual_glucose": 163.40170620144656,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 87.50204079378432,
+      "dose": 4.474123668234546,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.64969787247348,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.58549881257863,
+      "dose": 8.1707207094928,
+      "safe_dose": 0.0,
+      "actual_glucose": 138.8033726577643,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.21311792259382,
+      "dose": 8.41828776758272,
+      "safe_dose": 0.0,
+      "actual_glucose": 133.0375825975088,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 141.37359457332246,
+      "dose": 3.4208174871590744,
+      "safe_dose": 0.0,
+      "actual_glucose": 180.42520548863652,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 83.8333147175422,
+      "dose": 3.3519724164590095,
+      "safe_dose": 0.0,
+      "actual_glucose": 91.1000475718123,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.22808234935428,
+      "dose": 3.7330931627975295,
+      "safe_dose": 0.0,
+      "actual_glucose": 145.0899027934512,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.45240559118326,
+      "dose": 1.4011317576645255,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.9985863326929,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.04582650135298,
+      "dose": 0.3118313506128467,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.21669393254219,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.70773367635712,
+      "dose": 9.710582451653679,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.08206816250726,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.49728287651578,
+      "dose": 7.863450144155521,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.20880298952252,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.63940795820093,
+      "dose": 4.9587573507877085,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.14444999453835,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 87.48864471788708,
+      "dose": 7.61027902502028,
+      "safe_dose": 0.0,
+      "actual_glucose": 91.9981297442961,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 142.58694425753941,
+      "dose": 2.299546058910862,
+      "safe_dose": 0.0,
+      "actual_glucose": 146.43017496193897,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.773317774385,
+      "dose": 4.805069472578289,
+      "safe_dose": 0.0,
+      "actual_glucose": 86.00684271726627,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 148.3105679073392,
+      "dose": 3.3689579177110685,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.96520853491873,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.50655960044492,
+      "dose": 1.6352387258502277,
+      "safe_dose": 0.0,
+      "actual_glucose": 78.70848261347862,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 114.21926061798442,
+      "dose": 6.668642575461043,
+      "safe_dose": 0.0,
+      "actual_glucose": 115.24245967300617,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.40310623486852,
+      "dose": 3.2458582990027027,
+      "safe_dose": 0.0,
+      "actual_glucose": 58.162401673747475,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.13054719562354,
+      "dose": 2.7262400073353374,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.6989865642817,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 86.70001888641133,
+      "dose": 0.23638586046336396,
+      "safe_dose": 0.0,
+      "actual_glucose": 67.32049572182315,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.06535820613395,
+      "dose": 5.3582768447308124,
+      "safe_dose": 0.0,
+      "actual_glucose": 90.30407148134472,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.2086125135613,
+      "dose": 1.7352451498650867,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.27676348988923,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 136.97791886542132,
+      "dose": 6.152194382310109,
+      "safe_dose": 0.0,
+      "actual_glucose": 116.7387029555268,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 138.8610105598146,
+      "dose": 0.38426348962324997,
+      "safe_dose": 0.0,
+      "actual_glucose": 146.25912966562896,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.76958607450726,
+      "dose": 7.4807317942953215,
+      "safe_dose": 0.0,
+      "actual_glucose": 178.95672169133468,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.58523828413959,
+      "dose": 2.9754845131882055,
+      "safe_dose": 0.0,
+      "actual_glucose": 164.51220617545053,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.96278681336591,
+      "dose": 0.6485359448296835,
+      "safe_dose": 0.0,
+      "actual_glucose": 87.99224086953004,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.84754715807384,
+      "dose": 2.5929675886577375,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.10325014695115,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.86683429318181,
+      "dose": 5.653302545716099,
+      "safe_dose": 0.0,
+      "actual_glucose": 87.88358420221763,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.58675409266917,
+      "dose": 9.849896561408752,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.54030044451466,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.35633840477355,
+      "dose": 0.1260751997575904,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.68473895376245,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.00173370410954,
+      "dose": 6.9415057350983105,
+      "safe_dose": 0.0,
+      "actual_glucose": 118.77817682643366,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.86828253941204,
+      "dose": 4.687679654645058,
+      "safe_dose": 0.0,
+      "actual_glucose": 86.1846299598573,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.04557465838491,
+      "dose": 7.435939161765598,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.02795509646518,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.55336498634927,
+      "dose": 3.093727178627821,
+      "safe_dose": 0.0,
+      "actual_glucose": 115.75105630957403,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 135.88662383628468,
+      "dose": 8.224223736682784,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.10388059321963,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.20174555242359,
+      "dose": 0.23352096328185912,
+      "safe_dose": 0.0,
+      "actual_glucose": 54.75754532687124,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 147.48201930158598,
+      "dose": 9.09454610937242,
+      "safe_dose": 0.0,
+      "actual_glucose": 151.97138591804455,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 81.33812661008348,
+      "dose": 4.768434683178171,
+      "safe_dose": 0.0,
+      "actual_glucose": 77.7569588404948,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 100.67033458335604,
+      "dose": 2.3238432305604784,
+      "safe_dose": 0.0,
+      "actual_glucose": 102.53652001147826,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 138.75369446492016,
+      "dose": 0.03819922658583108,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.32274143947984,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.01474375190901,
+      "dose": 4.722818041629817,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.54447037650057,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 88.78851503338574,
+      "dose": 0.16947664889580993,
+      "safe_dose": 0.0,
+      "actual_glucose": 104.27509867861855,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 100.33531539699942,
+      "dose": 4.699882681579366,
+      "safe_dose": 0.0,
+      "actual_glucose": 110.02703390995954,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 114.92269651751593,
+      "dose": 0.12103116776107425,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.79295563931355,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.11433776301277,
+      "dose": 2.8249606597285224,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.54848823247478,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 137.17456265539454,
+      "dose": 1.8161396775660266,
+      "safe_dose": 0.0,
+      "actual_glucose": 143.65735753948587,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.41107524529139,
+      "dose": 3.8435503852413486,
+      "safe_dose": 0.0,
+      "actual_glucose": 121.79893106227107,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.9810718255331,
+      "dose": 3.32456157148712,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.87814331098114,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 98.9767377634846,
+      "dose": 5.976682827027031,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.8066871600918,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.3768407019992,
+      "dose": 4.589405165968204,
+      "safe_dose": 0.0,
+      "actual_glucose": 125.1658399170795,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 98.21656185896606,
+      "dose": 1.5949226254135829,
+      "safe_dose": 0.0,
+      "actual_glucose": 89.9377583183163,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.07187125277781,
+      "dose": 1.1755130015021997,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.86563789113855,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.54635447711453,
+      "dose": 4.19271661166022,
+      "safe_dose": 0.0,
+      "actual_glucose": 122.49837687291594,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.61359586604078,
+      "dose": 0.08363681876857099,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.93442880490278,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 106.79591351054715,
+      "dose": 8.218309465853594,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.95650160832507,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.06162897050604,
+      "dose": 9.976282974021565,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.0768567472787,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.3618783585576,
+      "dose": 6.971358058918092,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.96234172862547,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.8066529932522,
+      "dose": 0.30026005329392813,
+      "safe_dose": 0.0,
+      "actual_glucose": 110.67516446837035,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 114.14840229808087,
+      "dose": 0.8227232427706188,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.89218293917065,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.88564803612046,
+      "dose": 5.708774168394762,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.20996237006317,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 90.8144542803448,
+      "dose": 4.872653541000508,
+      "safe_dose": 0.0,
+      "actual_glucose": 102.54801256920283,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.15586218592637,
+      "dose": 0.3010387221131894,
+      "safe_dose": 0.0,
+      "actual_glucose": 54.5780128966318,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 141.92108217607296,
+      "dose": 8.955628481318387,
+      "safe_dose": 0.0,
+      "actual_glucose": 136.03665867045672,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.26043131660181,
+      "dose": 1.0326500887504841,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.01054375549887,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.54236735019126,
+      "dose": 1.6121881197512256,
+      "safe_dose": 0.0,
+      "actual_glucose": 123.37372785132906,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.08744581042953,
+      "dose": 4.032106331838228,
+      "safe_dose": 0.0,
+      "actual_glucose": 116.28198500397592,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.27013517139598,
+      "dose": 7.572829782755007,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.13572383507245,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.84674402760132,
+      "dose": 2.111259425580374,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.87686322164215,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.48072568414344,
+      "dose": 1.5620150793059928,
+      "safe_dose": 0.0,
+      "actual_glucose": 170.13556872224646,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.30997222345775,
+      "dose": 0.5994330086130828,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.35301486163172,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.07784659373311,
+      "dose": 2.719545593981987,
+      "safe_dose": 0.0,
+      "actual_glucose": 83.6092740653288,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 102.88587170356726,
+      "dose": 3.057439574472911,
+      "safe_dose": 0.0,
+      "actual_glucose": 90.79933277567392,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.86758696691304,
+      "dose": 4.6618159112755695,
+      "safe_dose": 0.0,
+      "actual_glucose": 142.48486889289376,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.10232453623303,
+      "dose": 3.380844093662614,
+      "safe_dose": 0.0,
+      "actual_glucose": 109.62828268686512,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.68945658534659,
+      "dose": 8.096750362658893,
+      "safe_dose": 0.0,
+      "actual_glucose": 80.87026309887648,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.60740086267215,
+      "dose": 4.418337048019546,
+      "safe_dose": 0.0,
+      "actual_glucose": 77.28698588561451,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.52029906458107,
+      "dose": 2.369239938967235,
+      "safe_dose": 0.0,
+      "actual_glucose": 122.87272889474092,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.28726733648335,
+      "dose": 3.5781124933559303,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.86588181787151,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.78616563892209,
+      "dose": 8.101610899597025,
+      "safe_dose": 0.0,
+      "actual_glucose": 138.81859098741182,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.7477843107198,
+      "dose": 2.0969027743020083,
+      "safe_dose": 0.0,
+      "actual_glucose": 92.12939192564906,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.32259928305103,
+      "dose": 9.450240645805687,
+      "safe_dose": 0.0,
+      "actual_glucose": 146.8442226802416,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 87.37809641775236,
+      "dose": 8.388538619040688,
+      "safe_dose": 0.0,
+      "actual_glucose": 51.331901835884956,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.64800328878823,
+      "dose": 5.128747423052678,
+      "safe_dose": 0.0,
+      "actual_glucose": 125.44822004069306,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 103.61314261920359,
+      "dose": 8.275236939538171,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.0434568716586,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.23415914243078,
+      "dose": 7.964405615234773,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.6865669420132,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 105.37513891720593,
+      "dose": 8.239976518799782,
+      "safe_dose": 0.0,
+      "actual_glucose": 103.92935633159904,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 103.94928200783265,
+      "dose": 9.615507321375663,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.56424002128378,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 97.65210142468709,
+      "dose": 4.467264687026406,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.34676255208252,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.9311581290516,
+      "dose": 2.589042747931396,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.210693412455,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.95125912668288,
+      "dose": 0.8540303016272166,
+      "safe_dose": 0.0,
+      "actual_glucose": 139.55865132444032,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.725410547271,
+      "dose": 5.46407074212132,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.28915014066541,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.24744117208274,
+      "dose": 7.690611331597243,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.10232359437757,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.09205910658139,
+      "dose": 2.999293974730662,
+      "safe_dose": 0.0,
+      "actual_glucose": 71.50063802871122,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.20149952829914,
+      "dose": 8.777494048626249,
+      "safe_dose": 0.0,
+      "actual_glucose": 109.31137351849095,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.69773636990287,
+      "dose": 2.786943159285258,
+      "safe_dose": 0.0,
+      "actual_glucose": 77.52667060088626,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 110.2264966575444,
+      "dose": 7.8177982592872635,
+      "safe_dose": 0.0,
+      "actual_glucose": 87.63295985977676,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.3581492965798,
+      "dose": 9.833407684142266,
+      "safe_dose": 0.0,
+      "actual_glucose": 132.8103005746836,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.26338802646279,
+      "dose": 7.015652656029423,
+      "safe_dose": 0.0,
+      "actual_glucose": 89.69335220335232,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.41473808537674,
+      "dose": 6.46407375228089,
+      "safe_dose": 0.0,
+      "actual_glucose": 138.057724979422,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.3139494061164,
+      "dose": 1.283499266146948,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.92114051607297,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.4745205445079,
+      "dose": 1.0187876413955654,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.49038356763118,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.8313091795277,
+      "dose": 3.141620638369721,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.9686587610825,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 101.26145323575696,
+      "dose": 0.9301740926267499,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.27501845332225,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.32250724270406,
+      "dose": 7.210546608978719,
+      "safe_dose": 0.0,
+      "actual_glucose": 144.62106914272172,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.23109161005505,
+      "dose": 1.7396370590333865,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.9307131908074,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.75341696009343,
+      "dose": 2.367204758538329,
+      "safe_dose": 0.0,
+      "actual_glucose": 98.84490806263652,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.32465373550431,
+      "dose": 5.172721697543105,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.4104865189019,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.45239025664506,
+      "dose": 7.718360352301099,
+      "safe_dose": 0.0,
+      "actual_glucose": 98.97942963295245,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.2840859655187,
+      "dose": 5.462476001308509,
+      "safe_dose": 0.0,
+      "actual_glucose": 116.07243449444115,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.68360474395979,
+      "dose": 7.939550847155906,
+      "safe_dose": 0.0,
+      "actual_glucose": 67.3735721699848,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.16791047564192,
+      "dose": 6.589018065748572,
+      "safe_dose": 0.0,
+      "actual_glucose": 79.08588871660533,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.51855169482798,
+      "dose": 9.865694907793266,
+      "safe_dose": 0.0,
+      "actual_glucose": 106.89243179862807,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.5496851594459,
+      "dose": 7.728400834265034,
+      "safe_dose": 0.0,
+      "actual_glucose": 118.17752652976331,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 88.43372757069275,
+      "dose": 8.515371718979257,
+      "safe_dose": 0.0,
+      "actual_glucose": 83.49492048393778,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.01891417260401,
+      "dose": 3.761904687696221,
+      "safe_dose": 0.0,
+      "actual_glucose": 121.42319903497751,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.51504807377901,
+      "dose": 5.182057321825209,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.57085892017051,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 139.98650909085717,
+      "dose": 6.842090751884866,
+      "safe_dose": 0.0,
+      "actual_glucose": 153.65289980202488,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.45210054644582,
+      "dose": 5.516879678064617,
+      "safe_dose": 0.0,
+      "actual_glucose": 67.52607144654503,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.60443817702759,
+      "dose": 4.744531798445233,
+      "safe_dose": 0.0,
+      "actual_glucose": 85.68855858352558,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.27041880646888,
+      "dose": 7.130142918617408,
+      "safe_dose": 0.0,
+      "actual_glucose": 143.5252212693947,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 101.5846485173339,
+      "dose": 8.695411688592182,
+      "safe_dose": 0.0,
+      "actual_glucose": 88.60373598051264,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.75588854394324,
+      "dose": 4.179685080138871,
+      "safe_dose": 0.0,
+      "actual_glucose": 103.50493330733586,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.17784173990776,
+      "dose": 3.7895590981250757,
+      "safe_dose": 0.0,
+      "actual_glucose": 110.22077755253295,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 101.3015314274605,
+      "dose": 0.8645750712015232,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.8273156195051,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 87.73802164160064,
+      "dose": 2.193893891962463,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.13897658868858,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.46504714086888,
+      "dose": 9.579793532488907,
+      "safe_dose": 0.0,
+      "actual_glucose": 155.60531343755432,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.76902545938292,
+      "dose": 4.030387579071322,
+      "safe_dose": 0.0,
+      "actual_glucose": 74.6074483821354,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 138.9788151025627,
+      "dose": 3.6218160279415157,
+      "safe_dose": 0.0,
+      "actual_glucose": 139.39196895097945,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.59515254609124,
+      "dose": 2.4134970383749987,
+      "safe_dose": 0.0,
+      "actual_glucose": 145.4004157725166,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.3965649348551,
+      "dose": 7.785158800616635,
+      "safe_dose": 0.0,
+      "actual_glucose": 128.03180640311032,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.56585809418982,
+      "dose": 8.043744141377006,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.98267136870317,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.09223823925186,
+      "dose": 4.109329049627583,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.13900673930301,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.46455688194793,
+      "dose": 3.831644685591258,
+      "safe_dose": 0.0,
+      "actual_glucose": 93.44916819381818,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.89674436014526,
+      "dose": 0.004015440253398728,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.54251006794323,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.42413527321006,
+      "dose": 2.459997403067952,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.9268957426769,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.60944577468612,
+      "dose": 3.7320736910512684,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.22086989684567,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.72659259668649,
+      "dose": 0.8591038820282049,
+      "safe_dose": 0.0,
+      "actual_glucose": 73.66298416428532,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.5618484704836,
+      "dose": 3.6727770128070922,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.28633513327568,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.13140203815217,
+      "dose": 8.369278328446237,
+      "safe_dose": 0.0,
+      "actual_glucose": 104.02138391653958,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.00089410062097,
+      "dose": 8.10603848260161,
+      "safe_dose": 0.0,
+      "actual_glucose": 72.38563550001112,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.1093477669328,
+      "dose": 9.712199118854944,
+      "safe_dose": 0.0,
+      "actual_glucose": 156.55996757570853,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 105.02593298990658,
+      "dose": 2.7742673480097912,
+      "safe_dose": 0.0,
+      "actual_glucose": 88.89163987721533,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.78921490997507,
+      "dose": 2.232554010693609,
+      "safe_dose": 0.0,
+      "actual_glucose": 152.69163109079946,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.40759697211405,
+      "dose": 7.133217295012723,
+      "safe_dose": 0.0,
+      "actual_glucose": 79.16184849406696,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.93055254944608,
+      "dose": 4.516389955188379,
+      "safe_dose": 0.0,
+      "actual_glucose": 180.26562814342657,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.76445460693094,
+      "dose": 3.8705001193488697,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.0908420204972,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.84753914691106,
+      "dose": 5.967229901062171,
+      "safe_dose": 0.0,
+      "actual_glucose": 125.57270115641285,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.18050988990785,
+      "dose": 2.197227501103969,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.41004820086061,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.42574927918398,
+      "dose": 8.262173757752201,
+      "safe_dose": 0.0,
+      "actual_glucose": 115.72984559983998,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.66699568278446,
+      "dose": 5.851947853928539,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.78963878013353,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 106.15239616738414,
+      "dose": 6.8146061251717125,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.23583982124003,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.82276678046655,
+      "dose": 0.9476847103459396,
+      "safe_dose": 0.0,
+      "actual_glucose": 84.05192170747405,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.75985962387408,
+      "dose": 2.029935591911972,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.91207403846022,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.14567835464605,
+      "dose": 8.47296745535494,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.6713138591364,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 110.22635705501384,
+      "dose": 7.8580848424435,
+      "safe_dose": 0.0,
+      "actual_glucose": 139.05882095270658,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.04492562024704,
+      "dose": 1.7067743530223367,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.56267872902013,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.370389109881,
+      "dose": 9.614996792371473,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.75849694989276,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.21146099493129,
+      "dose": 2.479324498058072,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.80165771843271,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 81.2622406877661,
+      "dose": 5.570475861922342,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.83115296843856,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 98.89815457988234,
+      "dose": 7.684210711172421,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.22929731130756,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.5045484201748,
+      "dose": 0.34799199868350117,
+      "safe_dose": 0.0,
+      "actual_glucose": 95.31722779519592,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.20512178484877,
+      "dose": 3.255033381261354,
+      "safe_dose": 0.0,
+      "actual_glucose": 84.97069255761247,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.4053882069516,
+      "dose": 8.83349701022104,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.36205016201828,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.50748790298898,
+      "dose": 8.041092460611317,
+      "safe_dose": 0.0,
+      "actual_glucose": 118.92813171209266,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.23862355515513,
+      "dose": 6.546211935154629,
+      "safe_dose": 0.0,
+      "actual_glucose": 59.87311289354197,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.4356421413219,
+      "dose": 3.5023661432707676,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.46205594817032,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 119.95971178810188,
+      "dose": 5.270709385134583,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.05058634026456,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.4340083093349,
+      "dose": 7.362798987834215,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.17499618081594,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 141.00819764956884,
+      "dose": 4.849922845774995,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.76298426531021,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.13475834969282,
+      "dose": 1.3181037349745917,
+      "safe_dose": 0.0,
+      "actual_glucose": 150.25021429720746,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 112.27234976684684,
+      "dose": 3.2589014339364275,
+      "safe_dose": 0.0,
+      "actual_glucose": 93.34104222457631,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.83727302944561,
+      "dose": 1.2613578629576516,
+      "safe_dose": 0.0,
+      "actual_glucose": 151.4473235912063,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.34368054460563,
+      "dose": 9.328462213602991,
+      "safe_dose": 0.0,
+      "actual_glucose": 110.451945335069,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 97.3975020748965,
+      "dose": 3.041552544854651,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.42319835498856,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.1571936167362,
+      "dose": 8.757170365589394,
+      "safe_dose": 0.0,
+      "actual_glucose": 144.6145737045315,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 101.74206799767308,
+      "dose": 4.609695922125397,
+      "safe_dose": 0.0,
+      "actual_glucose": 82.14987436167871,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 81.57987876014099,
+      "dose": 6.869274167743025,
+      "safe_dose": 0.0,
+      "actual_glucose": 64.93201662791365,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.31344292312406,
+      "dose": 0.4457004071263082,
+      "safe_dose": 0.0,
+      "actual_glucose": 115.8665054384459,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.52121578557353,
+      "dose": 5.568444131345625,
+      "safe_dose": 0.0,
+      "actual_glucose": 122.74484203274118,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 90.1940116967816,
+      "dose": 0.3343798556109767,
+      "safe_dose": 0.0,
+      "actual_glucose": 69.86250720305782,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.89514201627863,
+      "dose": 0.19172910749898242,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.63763675552802,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 134.76770660511215,
+      "dose": 5.307506023881423,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.98177192411015,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.64127206069558,
+      "dose": 2.3094166459874446,
+      "safe_dose": 0.0,
+      "actual_glucose": 152.97534064220804,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.04566246050757,
+      "dose": 0.1835572437914179,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.36504870035853,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.12044735868719,
+      "dose": 9.257516930553054,
+      "safe_dose": 0.0,
+      "actual_glucose": 132.85290442083843,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.12904737224818,
+      "dose": 9.915942356641667,
+      "safe_dose": 0.0,
+      "actual_glucose": 153.0788764469062,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.89893914265359,
+      "dose": 8.118616998325841,
+      "safe_dose": 0.0,
+      "actual_glucose": 65.54582264027184,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.80054844111112,
+      "dose": 4.401484472241325,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.74839355173252,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 103.30384673619822,
+      "dose": 1.7615391250286005,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.55962966007762,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.87382350886443,
+      "dose": 3.1671712202521607,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.34994749589825,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.58225455788664,
+      "dose": 2.6120017127391293,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.51736549777517,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.03816297379794,
+      "dose": 2.3179027761657967,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.52067051254352,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.04698968549035,
+      "dose": 3.0543169268303227,
+      "safe_dose": 0.0,
+      "actual_glucose": 88.56443530119199,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 98.669240144605,
+      "dose": 9.669850180280374,
+      "safe_dose": 0.0,
+      "actual_glucose": 96.84615796575072,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.85405940886014,
+      "dose": 2.5858422155277383,
+      "safe_dose": 0.0,
+      "actual_glucose": 149.34505187761812,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.469397205455,
+      "dose": 4.875984380495609,
+      "safe_dose": 0.0,
+      "actual_glucose": 91.23727728469821,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 99.50996005988043,
+      "dose": 1.588526919439558,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.40755875490458,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.02314950535248,
+      "dose": 9.524913004343246,
+      "safe_dose": 0.0,
+      "actual_glucose": 157.5971790784759,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 110.22129766899944,
+      "dose": 4.529981008299639,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.43647610224063,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 110.47725772896094,
+      "dose": 4.0189870795596665,
+      "safe_dose": 0.0,
+      "actual_glucose": 83.52363494604921,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.58685753061778,
+      "dose": 6.613039622868667,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.27222927492016,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.26384036198647,
+      "dose": 9.45117507342546,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.53193068771463,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 148.74312359504688,
+      "dose": 0.9624649114071637,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.10226323813524,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.85106640000123,
+      "dose": 6.061935374241404,
+      "safe_dose": 0.0,
+      "actual_glucose": 133.03344025677865,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 86.78659748387003,
+      "dose": 3.5121701963848806,
+      "safe_dose": 0.0,
+      "actual_glucose": 87.25990204610879,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 123.8100877949082,
+      "dose": 7.935911972023235,
+      "safe_dose": 0.0,
+      "actual_glucose": 125.62621113084896,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.21316244955067,
+      "dose": 7.8986810737974285,
+      "safe_dose": 0.0,
+      "actual_glucose": 104.72145125530803,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.9946152878742,
+      "dose": 8.529561136737488,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.76548122965855,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.40593103945955,
+      "dose": 6.414903690642878,
+      "safe_dose": 0.0,
+      "actual_glucose": 151.57525598423416,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 140.28745696281456,
+      "dose": 8.131050471108438,
+      "safe_dose": 0.0,
+      "actual_glucose": 147.58859824308132,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.66403559037198,
+      "dose": 0.30397414811526136,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.3886759577847,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 138.43589448059583,
+      "dose": 7.618052549549525,
+      "safe_dose": 0.0,
+      "actual_glucose": 132.86847066508042,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.75536148190197,
+      "dose": 4.294187868522533,
+      "safe_dose": 0.0,
+      "actual_glucose": 122.53210237761795,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 142.70592002561892,
+      "dose": 2.7463687981698293,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.98601265773473,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.29612828828888,
+      "dose": 6.029088114246855,
+      "safe_dose": 0.0,
+      "actual_glucose": 145.29821749088467,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.46396276156707,
+      "dose": 9.217274205310659,
+      "safe_dose": 0.0,
+      "actual_glucose": 77.69463902094833,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.16960646930609,
+      "dose": 0.7276237623962711,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.73957988838194,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 81.74796303038919,
+      "dose": 3.995064752605643,
+      "safe_dose": 0.0,
+      "actual_glucose": 36.687733321017824,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.9534585981781,
+      "dose": 3.083550706323103,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.87303266584154,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 136.8567677026123,
+      "dose": 6.791288313348619,
+      "safe_dose": 0.0,
+      "actual_glucose": 138.32188414452784,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.1514317620495,
+      "dose": 2.1507147146505243,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.12928619758803,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.51988351193398,
+      "dose": 9.987500343913169,
+      "safe_dose": 0.0,
+      "actual_glucose": 161.652371143462,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 88.22234509574687,
+      "dose": 6.895644110519649,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.18640572511869,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.6802818335443,
+      "dose": 5.092452505028752,
+      "safe_dose": 0.0,
+      "actual_glucose": 204.56067303103342,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.51154013076132,
+      "dose": 7.5662278808994525,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.28630911571767,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 103.23343994282477,
+      "dose": 6.244249271843925,
+      "safe_dose": 0.0,
+      "actual_glucose": 93.79965501786457,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.99228447688031,
+      "dose": 7.922223472439286,
+      "safe_dose": 0.0,
+      "actual_glucose": 66.20208147834278,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 99.29801278318902,
+      "dose": 1.7522429236611525,
+      "safe_dose": 0.0,
+      "actual_glucose": 103.8721242296479,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.47887267004928,
+      "dose": 6.235078099562221,
+      "safe_dose": 0.0,
+      "actual_glucose": 122.1202978216036,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.85048751293732,
+      "dose": 5.492512713778943,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.79703856107803,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 139.65655674831376,
+      "dose": 6.013676269900664,
+      "safe_dose": 0.0,
+      "actual_glucose": 176.47639674490247,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.08775090885676,
+      "dose": 7.141215274023056,
+      "safe_dose": 0.0,
+      "actual_glucose": 78.41370342949102,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.44269316450163,
+      "dose": 1.028328160641574,
+      "safe_dose": 0.0,
+      "actual_glucose": 155.71595519439384,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.6973221643088,
+      "dose": 0.11432676672204045,
+      "safe_dose": 0.0,
+      "actual_glucose": 92.3724749645597,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 102.65043228276583,
+      "dose": 3.412020723921535,
+      "safe_dose": 0.0,
+      "actual_glucose": 64.42922638880157,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.05286923186902,
+      "dose": 4.8956090622760575,
+      "safe_dose": 0.0,
+      "actual_glucose": 98.4456217035919,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 97.11165471796635,
+      "dose": 8.328490415914425,
+      "safe_dose": 0.0,
+      "actual_glucose": 111.07179044335298,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.54048426058021,
+      "dose": 0.6413525223738326,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.22643823308985,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.24103239729172,
+      "dose": 2.5674160134154933,
+      "safe_dose": 0.0,
+      "actual_glucose": 89.8073762653194,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.3541955254148,
+      "dose": 7.1683720673390265,
+      "safe_dose": 0.0,
+      "actual_glucose": 130.6925934403587,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.48454406185141,
+      "dose": 7.63997049319543,
+      "safe_dose": 0.0,
+      "actual_glucose": 113.60005972208201,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.48895648243084,
+      "dose": 9.213975880001964,
+      "safe_dose": 0.0,
+      "actual_glucose": 139.48079426925955,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.08595750826792,
+      "dose": 2.586402366373216,
+      "safe_dose": 0.0,
+      "actual_glucose": 75.70569231685158,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.47923658254285,
+      "dose": 9.244300917842622,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.12096860149182,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 81.64516959728269,
+      "dose": 3.75497241321621,
+      "safe_dose": 0.0,
+      "actual_glucose": 77.65883144391071,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.94552828373335,
+      "dose": 6.652041034810672,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.71983209789956,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.76366214004128,
+      "dose": 4.285638378056973,
+      "safe_dose": 0.0,
+      "actual_glucose": 159.64438458168436,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 148.75851929489875,
+      "dose": 7.08620400435131,
+      "safe_dose": 0.0,
+      "actual_glucose": 162.21937826650455,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 137.93755850424782,
+      "dose": 4.276929091162046,
+      "safe_dose": 0.0,
+      "actual_glucose": 172.0771090382873,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.48032681427883,
+      "dose": 3.56089673754747,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.47173241204291,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.33788212180076,
+      "dose": 2.6281427455294173,
+      "safe_dose": 0.0,
+      "actual_glucose": 130.10297360215398,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.33598773721594,
+      "dose": 5.091136924888792,
+      "safe_dose": 0.0,
+      "actual_glucose": 71.92734051148483,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.27999076502226,
+      "dose": 0.365698123629582,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.16687504296235,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.8721202343968,
+      "dose": 9.272656326314092,
+      "safe_dose": 0.0,
+      "actual_glucose": 109.14121798813594,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.11920889234443,
+      "dose": 9.011891219546017,
+      "safe_dose": 0.0,
+      "actual_glucose": 147.39348833617186,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 83.20964128622911,
+      "dose": 0.07252428015144474,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.14932951669101,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.18763371803445,
+      "dose": 7.845101356775531,
+      "safe_dose": 0.0,
+      "actual_glucose": 69.72923857143445,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.49518707591422,
+      "dose": 0.5598028486168638,
+      "safe_dose": 0.0,
+      "actual_glucose": 89.20601324328628,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.6776922441336,
+      "dose": 8.112888539460398,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.26379872535934,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.98929197823551,
+      "dose": 4.230144462417627,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.63120221894305,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.58932699798183,
+      "dose": 2.0179958134219023,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.95602910072634,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.9162622102662,
+      "dose": 4.994045613802446,
+      "safe_dose": 0.0,
+      "actual_glucose": 120.26914978267013,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.23289834587831,
+      "dose": 3.2810347584182176,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.08974271775949,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.71587670697818,
+      "dose": 2.714606630209909,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.55941811699395,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.57867417484981,
+      "dose": 3.096805643514559,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.26970229065482,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 123.3017873050771,
+      "dose": 8.38149165376357,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.85768595656836,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.44873114613075,
+      "dose": 7.692312035414377,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.25677737522288,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.54916292015092,
+      "dose": 2.1675771132198496,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.58357896594887,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 119.4087053160686,
+      "dose": 1.8717860898849026,
+      "safe_dose": 0.0,
+      "actual_glucose": 153.08227856344573,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.16254523812012,
+      "dose": 7.292355094683608,
+      "safe_dose": 0.0,
+      "actual_glucose": 154.14973219186098,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.1295620075299,
+      "dose": 6.7295040024636865,
+      "safe_dose": 0.0,
+      "actual_glucose": 39.90888351837688,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.10485303960485,
+      "dose": 9.863985764853,
+      "safe_dose": 0.0,
+      "actual_glucose": 144.09478326892105,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.5581142003707,
+      "dose": 6.893401156326044,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.64502853888285,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 90.02152954443054,
+      "dose": 9.45079197807832,
+      "safe_dose": 0.0,
+      "actual_glucose": 113.4542468684614,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.21305078898695,
+      "dose": 7.733922246287723,
+      "safe_dose": 0.0,
+      "actual_glucose": 71.61817383608194,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 142.58382288915013,
+      "dose": 4.966238140631713,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.50255678834321,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.58437857486776,
+      "dose": 7.485589856706767,
+      "safe_dose": 0.0,
+      "actual_glucose": 65.48170008311286,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.84940356839361,
+      "dose": 2.8488863890306106,
+      "safe_dose": 0.0,
+      "actual_glucose": 96.49630142904606,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.632758164338,
+      "dose": 8.191386377516322,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.6828234903904,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.18430448999445,
+      "dose": 1.8453505073664411,
+      "safe_dose": 0.0,
+      "actual_glucose": 123.03060722219486,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 81.55752463484316,
+      "dose": 7.167136096019267,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.74189717161136,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.1508056181778,
+      "dose": 9.324277829788153,
+      "safe_dose": 0.0,
+      "actual_glucose": 166.73659439316356,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.67004010570182,
+      "dose": 0.8732737255846912,
+      "safe_dose": 0.0,
+      "actual_glucose": 154.46856054906294,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.1119544929718,
+      "dose": 4.346023687179919,
+      "safe_dose": 0.0,
+      "actual_glucose": 142.2821812846455,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.49200580691826,
+      "dose": 0.22686842182447542,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.90515368386177,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.5059882070504,
+      "dose": 4.579191671996209,
+      "safe_dose": 0.0,
+      "actual_glucose": 133.4812383765176,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.39926026953663,
+      "dose": 0.4234974747641429,
+      "safe_dose": 0.0,
+      "actual_glucose": 72.89298015016543,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 99.06692054843026,
+      "dose": 8.320620967541508,
+      "safe_dose": 0.0,
+      "actual_glucose": 91.94029359966797,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.16130200245277,
+      "dose": 9.330940731098543,
+      "safe_dose": 0.0,
+      "actual_glucose": 155.1079438198368,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.2338709594756,
+      "dose": 0.08486012083443017,
+      "safe_dose": 0.0,
+      "actual_glucose": 137.46773846844724,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 87.59887504408539,
+      "dose": 7.4929036054925025,
+      "safe_dose": 0.0,
+      "actual_glucose": 72.68163113359445,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.21533895456935,
+      "dose": 4.637317359313208,
+      "safe_dose": 0.0,
+      "actual_glucose": 150.7860067104004,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 142.34750169238296,
+      "dose": 7.163310272566953,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.61457701121364,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.41346685286607,
+      "dose": 3.9366341405564076,
+      "safe_dose": 0.0,
+      "actual_glucose": 131.0339310828708,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.91143339242379,
+      "dose": 6.228292369611795,
+      "safe_dose": 0.0,
+      "actual_glucose": 128.62003042408364,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.99900468097857,
+      "dose": 5.9715070448314735,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.32240412941084,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 128.0985764251864,
+      "dose": 4.985862873912121,
+      "safe_dose": 0.0,
+      "actual_glucose": 121.62222235531324,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.787160902801,
+      "dose": 0.9324491922135836,
+      "safe_dose": 0.0,
+      "actual_glucose": 156.6555429956847,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.59151069565235,
+      "dose": 9.422611736585612,
+      "safe_dose": 0.0,
+      "actual_glucose": 144.90597320210023,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 112.42607461863201,
+      "dose": 3.239391201607158,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.63657396200995,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.0650108711944,
+      "dose": 9.148151491912277,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.96075871883968,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.43762141481288,
+      "dose": 3.63128442846072,
+      "safe_dose": 0.0,
+      "actual_glucose": 133.92613708747643,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 110.55411445153949,
+      "dose": 2.5054605893112827,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.67764339966185,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.66619239163104,
+      "dose": 1.2766663498230535,
+      "safe_dose": 0.0,
+      "actual_glucose": 61.81525328230872,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.63381056476929,
+      "dose": 7.500840749486621,
+      "safe_dose": 0.0,
+      "actual_glucose": 90.27710107878157,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 142.18545779608849,
+      "dose": 0.2554740112160414,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.56567364552558,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 138.4481851355423,
+      "dose": 1.7761981945520222,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.22876424477172,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 112.18757016364253,
+      "dose": 2.1018510362154377,
+      "safe_dose": 0.0,
+      "actual_glucose": 90.3835211223148,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.35075386733234,
+      "dose": 7.567798069785374,
+      "safe_dose": 0.0,
+      "actual_glucose": 171.83048157036262,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.24608723546476,
+      "dose": 9.302543199850561,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.1815743425176,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.55025898725032,
+      "dose": 5.63817480575171,
+      "safe_dose": 0.0,
+      "actual_glucose": 120.26617505447331,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.01473069490447,
+      "dose": 5.550852504728198,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.80998117704995,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.27424727573528,
+      "dose": 9.927870182635864,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.61364815078285,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.28021568120552,
+      "dose": 9.702937327487524,
+      "safe_dose": 0.0,
+      "actual_glucose": 139.97394159374602,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.38769294868405,
+      "dose": 0.40773274341371457,
+      "safe_dose": 0.0,
+      "actual_glucose": 67.68403973783273,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 100.36158125709535,
+      "dose": 7.154509636491238,
+      "safe_dose": 0.0,
+      "actual_glucose": 50.71877082392243,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.33049435648013,
+      "dose": 9.66276251897396,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.15319532629249,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 87.5936880296491,
+      "dose": 9.612792423673863,
+      "safe_dose": 0.0,
+      "actual_glucose": 76.82219491316692,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 139.40680729330967,
+      "dose": 1.6291610476529073,
+      "safe_dose": 0.0,
+      "actual_glucose": 145.09097581980367,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 90.18776719258524,
+      "dose": 6.061243888829777,
+      "safe_dose": 0.0,
+      "actual_glucose": 84.37277566817407,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 97.06386451579093,
+      "dose": 2.970909687803208,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.13646188274224,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 97.87196608198896,
+      "dose": 6.3835430488547775,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.80893119045076,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 106.9100113147168,
+      "dose": 6.481179230208346,
+      "safe_dose": 0.0,
+      "actual_glucose": 66.811636303212,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.2806045557537,
+      "dose": 1.2068846784624043,
+      "safe_dose": 0.0,
+      "actual_glucose": 95.52285807720044,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 123.49114624204691,
+      "dose": 0.9137144056141477,
+      "safe_dose": 0.0,
+      "actual_glucose": 121.37938688779775,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.68845175603073,
+      "dose": 2.673375624116643,
+      "safe_dose": 0.0,
+      "actual_glucose": 83.45957100102999,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.2508089711149,
+      "dose": 0.9949941425661568,
+      "safe_dose": 0.0,
+      "actual_glucose": 151.94267300212636,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.29814231831482,
+      "dose": 3.248748670992887,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.76925988804076,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.99765817928022,
+      "dose": 1.0303713097510048,
+      "safe_dose": 0.0,
+      "actual_glucose": 111.24178514882234,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.90577059398606,
+      "dose": 5.7386277396265015,
+      "safe_dose": 0.0,
+      "actual_glucose": 109.41864605063094,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.68747095323069,
+      "dose": 0.04197160830565205,
+      "safe_dose": 0.0,
+      "actual_glucose": 111.39731701946367,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.27492693864006,
+      "dose": 8.620508569761277,
+      "safe_dose": 0.0,
+      "actual_glucose": 77.95034585261178,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.59362798893532,
+      "dose": 3.192110358872725,
+      "safe_dose": 0.0,
+      "actual_glucose": 142.7266194044255,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 134.40070357606317,
+      "dose": 5.059262544921705,
+      "safe_dose": 0.0,
+      "actual_glucose": 150.92497957748583,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.81668975972777,
+      "dose": 9.180765622686414,
+      "safe_dose": 0.0,
+      "actual_glucose": 83.66635216362629,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.3820285882589,
+      "dose": 2.30054367746897,
+      "safe_dose": 0.0,
+      "actual_glucose": 95.41085212822328,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.71967063425771,
+      "dose": 4.647237562500374,
+      "safe_dose": 0.0,
+      "actual_glucose": 68.74805062300331,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.88220651979475,
+      "dose": 9.412216350952905,
+      "safe_dose": 0.0,
+      "actual_glucose": 149.61827912977543,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 86.19190184798755,
+      "dose": 7.2950382642938365,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.65680719182512,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.23899750299836,
+      "dose": 4.751471801568825,
+      "safe_dose": 0.0,
+      "actual_glucose": 78.77125141472423,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.6581938803532,
+      "dose": 0.6140658314112168,
+      "safe_dose": 0.0,
+      "actual_glucose": 138.97496024241647,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 134.93860748478448,
+      "dose": 1.1211364833819615,
+      "safe_dose": 0.0,
+      "actual_glucose": 143.92962466217767,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.08919961059996,
+      "dose": 1.177639922766185,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.21583667519249,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 147.02433717148546,
+      "dose": 4.586284874314659,
+      "safe_dose": 0.0,
+      "actual_glucose": 147.10716749422852,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.03342287830992,
+      "dose": 4.067423871913114,
+      "safe_dose": 0.0,
+      "actual_glucose": 92.92899247441022,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.49920386393839,
+      "dose": 4.6293733357718345,
+      "safe_dose": 0.0,
+      "actual_glucose": 128.4185236371854,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.86655718399663,
+      "dose": 3.232467839440071,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.5523122656497,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.19834679146769,
+      "dose": 4.02418494256982,
+      "safe_dose": 0.0,
+      "actual_glucose": 122.9207740790308,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.27720695406225,
+      "dose": 8.445563757121603,
+      "safe_dose": 0.0,
+      "actual_glucose": 136.97041603378983,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.48523581030426,
+      "dose": 9.508410342291114,
+      "safe_dose": 0.0,
+      "actual_glucose": 95.6447548652537,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 101.32874380604026,
+      "dose": 0.5296640560971011,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.91474888014545,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.8110459608457,
+      "dose": 7.57813305694266,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.59414992148645,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.17931375029643,
+      "dose": 0.9851507346853383,
+      "safe_dose": 0.0,
+      "actual_glucose": 144.96438931759155,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.14739166798093,
+      "dose": 9.57604371116171,
+      "safe_dose": 0.0,
+      "actual_glucose": 87.9185227884437,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 134.50072941044505,
+      "dose": 9.564007794334167,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.7618718850261,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 137.8883814054663,
+      "dose": 0.09561712850478243,
+      "safe_dose": 0.0,
+      "actual_glucose": 186.11307860075433,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.37039988196075,
+      "dose": 8.71132121082168,
+      "safe_dose": 0.0,
+      "actual_glucose": 84.7863910206641,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.26942972803977,
+      "dose": 1.1583465834136975,
+      "safe_dose": 0.0,
+      "actual_glucose": 146.66479180463253,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.17917762750966,
+      "dose": 7.799157791054099,
+      "safe_dose": 0.0,
+      "actual_glucose": 166.6693404341779,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.36845600776485,
+      "dose": 1.8892855544869447,
+      "safe_dose": 0.0,
+      "actual_glucose": 151.25537009238232,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.67922675792255,
+      "dose": 8.271787066580128,
+      "safe_dose": 0.0,
+      "actual_glucose": 101.08998478768497,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.53528985391524,
+      "dose": 7.064764872194028,
+      "safe_dose": 0.0,
+      "actual_glucose": 78.87869525773215,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.35691742052916,
+      "dose": 7.718182121026408,
+      "safe_dose": 0.0,
+      "actual_glucose": 92.80217108814706,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 141.18767394027054,
+      "dose": 9.779997935612899,
+      "safe_dose": 0.0,
+      "actual_glucose": 111.78446831829402,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.55545321285831,
+      "dose": 0.5862870042258395,
+      "safe_dose": 0.0,
+      "actual_glucose": 121.33193801003394,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 112.55620640401816,
+      "dose": 5.637022194181917,
+      "safe_dose": 0.0,
+      "actual_glucose": 99.81442261487288,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 139.56515792032687,
+      "dose": 6.366291184450486,
+      "safe_dose": 0.0,
+      "actual_glucose": 149.34910900208558,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.47537232321804,
+      "dose": 1.428879341922672,
+      "safe_dose": 0.0,
+      "actual_glucose": 80.77937377343409,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 88.27377673604897,
+      "dose": 1.6673324780534327,
+      "safe_dose": 0.0,
+      "actual_glucose": 79.06959994936523,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.96241287262055,
+      "dose": 8.427654361503011,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.04334789859588,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 111.94071181894591,
+      "dose": 1.8448787716439774,
+      "safe_dose": 0.0,
+      "actual_glucose": 104.86241474711568,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 103.23883761803019,
+      "dose": 5.636586996350151,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.37132860281217,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.75897174643245,
+      "dose": 8.025265348633159,
+      "safe_dose": 0.0,
+      "actual_glucose": 165.7882886210053,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.37316124587068,
+      "dose": 6.501635325176437,
+      "safe_dose": 0.0,
+      "actual_glucose": 106.8557535875492,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.83430313668197,
+      "dose": 3.5031752587232856,
+      "safe_dose": 0.0,
+      "actual_glucose": 138.80029113882122,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.9733298784771,
+      "dose": 5.811085216985053,
+      "safe_dose": 0.0,
+      "actual_glucose": 119.864355995952,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.01907943817105,
+      "dose": 4.188706622460472,
+      "safe_dose": 0.0,
+      "actual_glucose": 183.58362679960317,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 141.99193663948847,
+      "dose": 7.551685922953277,
+      "safe_dose": 0.0,
+      "actual_glucose": 137.86086283788524,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 113.14560114187452,
+      "dose": 9.97897852754217,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.49307133308892,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 97.10032061760151,
+      "dose": 8.925114877785294,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.28585873408885,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.26057233513609,
+      "dose": 6.4646852043154945,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.75860226993262,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.94783659204421,
+      "dose": 3.7369716973622302,
+      "safe_dose": 0.0,
+      "actual_glucose": 91.47575440403018,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 84.22813081550488,
+      "dose": 6.068597036029475,
+      "safe_dose": 0.0,
+      "actual_glucose": 90.17188884938216,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.17040629506995,
+      "dose": 8.88551382703368,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.08954023777798,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 102.15321721465008,
+      "dose": 2.171441578399188,
+      "safe_dose": 0.0,
+      "actual_glucose": 91.4524165014384,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.53509669626322,
+      "dose": 9.528045855639407,
+      "safe_dose": 0.0,
+      "actual_glucose": 105.9868894250701,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.05853700490518,
+      "dose": 7.299983109899704,
+      "safe_dose": 0.0,
+      "actual_glucose": 92.39249753084646,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 83.04826044903628,
+      "dose": 7.658040880308877,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.27076975737165,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.50256205769641,
+      "dose": 9.057720957855263,
+      "safe_dose": 0.0,
+      "actual_glucose": 93.0284835280622,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.63935977060984,
+      "dose": 6.011294099302687,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.72446328451888,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 90.25295320548219,
+      "dose": 8.67708947782877,
+      "safe_dose": 0.0,
+      "actual_glucose": 102.3565854553034,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 110.8092893232369,
+      "dose": 6.154884193426575,
+      "safe_dose": 0.0,
+      "actual_glucose": 111.55091394729794,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.20901824311352,
+      "dose": 3.687502145056203,
+      "safe_dose": 0.0,
+      "actual_glucose": 114.44471043331222,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.0974503046357,
+      "dose": 8.566938033265645,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.7227171100117,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.85253601589385,
+      "dose": 9.186841779432976,
+      "safe_dose": 0.0,
+      "actual_glucose": 132.00830331469263,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 123.75160992520443,
+      "dose": 6.228189228581973,
+      "safe_dose": 0.0,
+      "actual_glucose": 117.31125685733724,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 114.0187249194872,
+      "dose": 4.263196668043148,
+      "safe_dose": 0.0,
+      "actual_glucose": 100.85023308074369,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.65653572391615,
+      "dose": 7.728064074086562,
+      "safe_dose": 0.0,
+      "actual_glucose": 116.69771545547125,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 147.9456143133453,
+      "dose": 8.511970874787616,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.07792531053684,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.42241493002234,
+      "dose": 8.111178727406951,
+      "safe_dose": 0.0,
+      "actual_glucose": 143.15266042623455,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.03608447241956,
+      "dose": 5.51646736098048,
+      "safe_dose": 0.0,
+      "actual_glucose": 143.28206221343552,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 120.37738513138765,
+      "dose": 9.113945368072839,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.40288985270016,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.67409215659423,
+      "dose": 9.250866324861406,
+      "safe_dose": 0.0,
+      "actual_glucose": 97.31327018105975,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.78786498509737,
+      "dose": 2.5013395714924425,
+      "safe_dose": 0.0,
+      "actual_glucose": 142.88075106308506,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.68150553940157,
+      "dose": 0.48497368893938186,
+      "safe_dose": 0.0,
+      "actual_glucose": 80.09644825941841,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 100.5820816708573,
+      "dose": 3.7160509930085626,
+      "safe_dose": 0.0,
+      "actual_glucose": 104.66335676551127,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 137.2766619734351,
+      "dose": 3.960718539166901,
+      "safe_dose": 0.0,
+      "actual_glucose": 106.32821693806866,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.30032238992675,
+      "dose": 2.5303154353213997,
+      "safe_dose": 0.0,
+      "actual_glucose": 81.71441171599699,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.40322543762056,
+      "dose": 5.142471142828587,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.23704841595753,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 88.67356214178626,
+      "dose": 1.7087043383847544,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.24805111867975,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.48283432418842,
+      "dose": 2.505617565679805,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.29198314242558,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 124.36517392351044,
+      "dose": 5.904372807789149,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.14349315566506,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.14333564958716,
+      "dose": 1.35070356305934,
+      "safe_dose": 0.0,
+      "actual_glucose": 107.55213824279105,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 127.21228984110616,
+      "dose": 2.9445689275411713,
+      "safe_dose": 0.0,
+      "actual_glucose": 106.99521108722244,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 134.4988821938077,
+      "dose": 2.993364571893653,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.47237468842005,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 118.63045450841493,
+      "dose": 5.067578180237691,
+      "safe_dose": 0.0,
+      "actual_glucose": 120.33784206967982,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.73393251715073,
+      "dose": 4.644761457173383,
+      "safe_dose": 0.0,
+      "actual_glucose": 98.91597075042245,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 92.87849483276361,
+      "dose": 5.625810537646628,
+      "safe_dose": 0.0,
+      "actual_glucose": 80.98644498173996,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 114.7991562438949,
+      "dose": 2.1909482270011535,
+      "safe_dose": 0.0,
+      "actual_glucose": 71.48043182813831,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 93.96002008127697,
+      "dose": 9.710739982658218,
+      "safe_dose": 0.0,
+      "actual_glucose": 61.889892311969845,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 148.88417006697878,
+      "dose": 2.917451682411676,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.69927984221542,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 143.2624251520374,
+      "dose": 5.390082375602997,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.6651961195559,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.06253963800266,
+      "dose": 0.4498113774550805,
+      "safe_dose": 0.0,
+      "actual_glucose": 118.63212868272178,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.6079502728849,
+      "dose": 0.5913941201559225,
+      "safe_dose": 0.0,
+      "actual_glucose": 178.21320587188453,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 94.6949199095645,
+      "dose": 4.896238314101744,
+      "safe_dose": 0.0,
+      "actual_glucose": 93.07926961735538,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.0569935325504,
+      "dose": 3.9206805305237244,
+      "safe_dose": 0.0,
+      "actual_glucose": 166.7244360240087,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 147.78234443624712,
+      "dose": 0.5530068632834839,
+      "safe_dose": 0.0,
+      "actual_glucose": 163.8096875898029,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 109.0148267597265,
+      "dose": 4.463340257206379,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.4980959800382,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.70673116500103,
+      "dose": 2.3256854107333123,
+      "safe_dose": 0.0,
+      "actual_glucose": 29.043709968482013,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.72318415207414,
+      "dose": 0.5377512794871575,
+      "safe_dose": 0.0,
+      "actual_glucose": 60.41093794851898,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 133.82366076832326,
+      "dose": 8.633042864353936,
+      "safe_dose": 0.0,
+      "actual_glucose": 157.76523607144802,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 119.18857619975128,
+      "dose": 4.158340502680296,
+      "safe_dose": 0.0,
+      "actual_glucose": 173.82535659078474,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.15665815817596,
+      "dose": 0.16930750257658,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.77199307558735,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 145.71401277100728,
+      "dose": 0.10906995317794821,
+      "safe_dose": 0.0,
+      "actual_glucose": 147.1865220777228,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.72806191350386,
+      "dose": 3.0217126330528785,
+      "safe_dose": 0.0,
+      "actual_glucose": 193.13916973028756,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 135.69026917248425,
+      "dose": 0.36835817103303303,
+      "safe_dose": 0.0,
+      "actual_glucose": 140.3086443662034,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.12095486529904,
+      "dose": 6.539213699257514,
+      "safe_dose": 0.0,
+      "actual_glucose": 142.76691647723644,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 99.51740953726876,
+      "dose": 3.2179690858760877,
+      "safe_dose": 0.0,
+      "actual_glucose": 129.55760619342888,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 102.9105550499621,
+      "dose": 6.902597417930808,
+      "safe_dose": 0.0,
+      "actual_glucose": 86.2459600529944,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 104.86163339734959,
+      "dose": 2.793310185303406,
+      "safe_dose": 0.0,
+      "actual_glucose": 94.22164404089979,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 85.98747515096234,
+      "dose": 2.963302510918565,
+      "safe_dose": 0.0,
+      "actual_glucose": 83.45016525074548,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 98.53966801277363,
+      "dose": 1.3102850581229897,
+      "safe_dose": 0.0,
+      "actual_glucose": 78.47406107972125,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 126.04573855180246,
+      "dose": 0.9340768176021597,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.41066570288281,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.7347859742071,
+      "dose": 9.934799343336271,
+      "safe_dose": 0.0,
+      "actual_glucose": 103.23110083785593,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 114.73441159650056,
+      "dose": 6.63214327298456,
+      "safe_dose": 0.0,
+      "actual_glucose": 92.7347165781625,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.7070749987136,
+      "dose": 8.436098291374417,
+      "safe_dose": 0.0,
+      "actual_glucose": 115.24863722167737,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 95.48937287605632,
+      "dose": 3.7985462876245215,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.0367380887716,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 107.98514232795739,
+      "dose": 7.648895286111438,
+      "safe_dose": 0.0,
+      "actual_glucose": 109.19914863934775,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.40781314329635,
+      "dose": 7.106573770668566,
+      "safe_dose": 0.0,
+      "actual_glucose": 152.49347669439769,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 103.82005269688779,
+      "dose": 1.7709669429408381,
+      "safe_dose": 0.0,
+      "actual_glucose": 132.72412678080127,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 131.16025761311988,
+      "dose": 2.2150078100918735,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.3500103018862,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 147.73649387024946,
+      "dose": 0.9707749047365744,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.27876774979157,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 99.57865093498836,
+      "dose": 3.2112203305813916,
+      "safe_dose": 0.0,
+      "actual_glucose": 80.1323163864324,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 102.11406977189452,
+      "dose": 5.795393434937254,
+      "safe_dose": 0.0,
+      "actual_glucose": 93.28316934010385,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 125.17141503123236,
+      "dose": 1.4693799594601265,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.36553927472673,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 82.93484480645884,
+      "dose": 2.0412228455809767,
+      "safe_dose": 0.0,
+      "actual_glucose": 78.54707632756721,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 105.83951355748945,
+      "dose": 4.989128732895759,
+      "safe_dose": 0.0,
+      "actual_glucose": 106.48836129212397,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.20367314531568,
+      "dose": 3.7318345986368175,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.88741666221236,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 123.7509274381232,
+      "dose": 7.1720547989443855,
+      "safe_dose": 0.0,
+      "actual_glucose": 106.6111121702136,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 115.98287641049728,
+      "dose": 8.302435279704074,
+      "safe_dose": 0.0,
+      "actual_glucose": 112.85439126150001,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 149.5518155998197,
+      "dose": 4.885630511653794,
+      "safe_dose": 0.0,
+      "actual_glucose": 148.07113252932186,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 101.65053646122105,
+      "dose": 0.5993043311889179,
+      "safe_dose": 0.0,
+      "actual_glucose": 84.84640130721732,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.63391170940099,
+      "dose": 3.326245332068397,
+      "safe_dose": 0.0,
+      "actual_glucose": 143.94209798401778,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.48132432111233,
+      "dose": 1.389332294404545,
+      "safe_dose": 0.0,
+      "actual_glucose": 118.64935193855003,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 89.56122568634967,
+      "dose": 5.258685282282677,
+      "safe_dose": 0.0,
+      "actual_glucose": 160.4227779851868,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 122.71928842225364,
+      "dose": 1.860975677829041,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.22069669725708,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.29571054819849,
+      "dose": 9.80329132876381,
+      "safe_dose": 0.0,
+      "actual_glucose": 137.27313581469775,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.23780606212318,
+      "dose": 3.112388686675537,
+      "safe_dose": 0.0,
+      "actual_glucose": 88.7073982396636,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 96.82179457834631,
+      "dose": 6.138064011754337,
+      "safe_dose": 0.0,
+      "actual_glucose": 124.03360330026682,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 121.55302930663925,
+      "dose": 9.123530869891383,
+      "safe_dose": 0.0,
+      "actual_glucose": 110.60253635445548,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 146.6922620694777,
+      "dose": 7.925372261143233,
+      "safe_dose": 0.0,
+      "actual_glucose": 126.25042579980976,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 116.96191455111547,
+      "dose": 7.61736902212518,
+      "safe_dose": 0.0,
+      "actual_glucose": 135.61956281476878,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.3476548801141,
+      "dose": 6.191146953034209,
+      "safe_dose": 0.0,
+      "actual_glucose": 80.66549091471519,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 134.30290534341432,
+      "dose": 6.48602122637279,
+      "safe_dose": 0.0,
+      "actual_glucose": 132.1251780179792,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 117.14449076607194,
+      "dose": 7.539365442663667,
+      "safe_dose": 0.0,
+      "actual_glucose": 95.48465352032834,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 83.28344872668053,
+      "dose": 4.020927494109968,
+      "safe_dose": 0.0,
+      "actual_glucose": 84.20565807867722,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.49605272131677,
+      "dose": 0.34129904071177886,
+      "safe_dose": 0.0,
+      "actual_glucose": 74.79946724312208,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 108.15192989296874,
+      "dose": 6.6534963226356645,
+      "safe_dose": 0.0,
+      "actual_glucose": 108.55345919844346,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 132.21767655202592,
+      "dose": 4.945155505222182,
+      "safe_dose": 0.0,
+      "actual_glucose": 134.63189628063603,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 123.71902517584638,
+      "dose": 1.1301262534697842,
+      "safe_dose": 0.0,
+      "actual_glucose": 127.4207194279641,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 90.00982858368072,
+      "dose": 6.676977617064715,
+      "safe_dose": 0.0,
+      "actual_glucose": 73.0126149935697,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 88.97737439515454,
+      "dose": 7.565147240490595,
+      "safe_dose": 0.0,
+      "actual_glucose": 75.34287925006225,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 91.37536092414277,
+      "dose": 2.514659704910759,
+      "safe_dose": 0.0,
+      "actual_glucose": 96.20853172555603,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 129.0634678890618,
+      "dose": 1.394646545990349,
+      "safe_dose": 0.0,
+      "actual_glucose": 123.82084439918073,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 80.59250951321167,
+      "dose": 9.68414862695618,
+      "safe_dose": 0.0,
+      "actual_glucose": 69.35998093292088,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 130.74875814467177,
+      "dose": 8.711964372184074,
+      "safe_dose": 0.0,
+      "actual_glucose": 141.7898297488069,
+      "violation": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "glucose": 144.62918604474845,
+      "dose": 6.372856468144398,
+      "safe_dose": 0.0,
+      "actual_glucose": 158.9321876277803,
+      "violation": 0
+    },
+    "condition": {}
+  }
+]

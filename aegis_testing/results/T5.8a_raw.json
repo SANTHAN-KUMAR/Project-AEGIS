@@ -1,0 +1,4502 @@
+[
+  {
+    "metrics": {
+      "actual": 106.18101782710437,
+      "reported": 159.27152674065655,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 159.79909127171078,
+      "reported": 239.69863690756617,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 73.40279606636548,
+      "reported": 110.10419409954822,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 58.71254182522992,
+      "reported": 88.06881273784488,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 140.16725176148134,
+      "reported": 210.250877642222,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 53.08767414437037,
+      "reported": 79.63151121655555,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 174.86639612006326,
+      "reported": 262.2995941800949,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 77.2737450810651,
+      "reported": 115.91061762159765,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 95.63633644393066,
+      "reported": 143.454504665896,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 114.79175279631737,
+      "reported": 172.18762919447605,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 141.77793420835692,
+      "reported": 212.6669013125354,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 93.82169728028272,
+      "reported": 140.7325459204241,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 118.41049763255539,
+      "reported": 177.61574644883308,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 79.95106732375396,
+      "reported": 119.92660098563094,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 138.86218532930639,
+      "reported": 208.29327799395958,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 141.13172778521576,
+      "reported": 211.69759167782365,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 59.75773894779193,
+      "reported": 89.6366084216879,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 194.8448049611839,
+      "reported": 292.2672074417759,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 95.6920653760056,
+      "reported": 143.5380980640084,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 152.63495397682354,
+      "reported": 228.9524309652353,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 68.30573522671682,
+      "reported": 102.45860284007523,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 55.15827816728276,
+      "reported": 82.73741725092414,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 88.81699724000254,
+      "reported": 133.2254958600038,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 96.75666141341165,
+      "reported": 145.1349921201175,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 132.00654190149194,
+      "reported": 198.00981285223793,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 195.4376941646838,
+      "reported": 293.1565412470257,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 190.92484123462836,
+      "reported": 286.3872618519425,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 139.68499682166276,
+      "reported": 209.52749523249415,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 63.273875307787925,
+      "reported": 94.91081296168188,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 56.78409333658071,
+      "reported": 85.17614000487106,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 108.3015934534223,
+      "reported": 162.45239018013345,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 174.3106263727894,
+      "reported": 261.4659395591841,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.14017645310712,
+      "reported": 138.21026467966067,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 71.1386337462144,
+      "reported": 106.7079506193216,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 61.182596551965624,
+      "reported": 91.77389482794844,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 165.8367153944986,
+      "reported": 248.75507309174793,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 50.828317568540356,
+      "reported": 76.24247635281054,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 156.02860157714258,
+      "reported": 234.04290236571387,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 165.69055200289188,
+      "reported": 248.53582800433782,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 103.76985928164089,
+      "reported": 155.65478892246134,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 179.46551388133904,
+      "reported": 269.19827082200857,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 99.63470372789737,
+      "reported": 149.45205559184606,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 96.64734825734934,
+      "reported": 144.971022386024,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 159.4409267507096,
+      "reported": 239.1613901260644,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 183.08191138644898,
+      "reported": 274.6228670796735,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.93913689074526,
+      "reported": 101.90870533611789,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 164.11775729253463,
+      "reported": 246.17663593880195,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 165.64507699318415,
+      "reported": 248.46761548977622,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 128.40992440729912,
+      "reported": 192.61488661094867,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 53.81286901161428,
+      "reported": 80.71930351742142,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 54.714377853010134,
+      "reported": 82.0715667795152,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 97.15339716144899,
+      "reported": 145.7300957421735,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 186.13497108891394,
+      "reported": 279.2024566333709,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 111.55743845534445,
+      "reported": 167.33615768301667,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 84.31972482374337,
+      "reported": 126.47958723561506,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 93.46271793706521,
+      "reported": 140.1940769055978,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 189.45464785138597,
+      "reported": 284.18197177707896,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 145.0105634765635,
+      "reported": 217.51584521484526,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 170.55081153486717,
+      "reported": 255.82621730230073,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 183.88384977349668,
+      "reported": 275.82577466024503,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 171.11602327460938,
+      "reported": 256.6740349119141,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 97.70052124577958,
+      "reported": 146.5507818686694,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 84.19027438129126,
+      "reported": 126.28541157193689,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 172.702214888374,
+      "reported": 259.053322332561,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 51.04281957967861,
+      "reported": 76.5642293695179,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 112.61165047231685,
+      "reported": 168.91747570847528,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.97980510005242,
+      "reported": 101.96970765007862,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 191.43645558687788,
+      "reported": 287.15468338031684,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 127.81859326150492,
+      "reported": 191.72788989225737,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 104.5444403568941,
+      "reported": 156.81666053534116,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 194.3670942413167,
+      "reported": 291.55064136197507,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 124.58727588385781,
+      "reported": 186.8809138257867,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.72607415662014,
+      "reported": 139.08911123493021,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 141.4346500969845,
+      "reported": 212.15197514547677,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 57.7218126874984,
+      "reported": 86.58271903124759,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 186.23988289499806,
+      "reported": 279.35982434249706,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 71.73423081368347,
+      "reported": 107.6013462205252,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 197.8475681165901,
+      "reported": 296.7713521748852,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 150.8203321108818,
+      "reported": 226.2304981663227,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 85.64563159885995,
+      "reported": 128.46844739828992,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 105.16746990788798,
+      "reported": 157.75120486183198,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 145.0294566141342,
+      "reported": 217.5441849212013,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 63.54346550816125,
+      "reported": 95.31519826224186,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 98.11700974576038,
+      "reported": 147.1755146186406,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 56.11627123321459,
+      "reported": 84.17440684982188,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 151.63465427634236,
+      "reported": 227.45198141451354,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 126.81395874489215,
+      "reported": 190.22093811733822,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 146.77591856141748,
+      "reported": 220.16387784212623,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 153.6406607153699,
+      "reported": 230.46099107305486,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 190.50949831051017,
+      "reported": 285.76424746576527,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 101.15995265753878,
+      "reported": 151.73992898630817,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 188.7040427417844,
+      "reported": 283.0560641126766,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 88.69124415727333,
+      "reported": 133.03686623591,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 172.58333003018237,
+      "reported": 258.8749950452735,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 129.44758675340097,
+      "reported": 194.17138013010145,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 63.96541517088488,
+      "reported": 95.94812275632732,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 185.06270857449957,
+      "reported": 277.59406286174936,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 100.8544686573051,
+      "reported": 151.28170298595765,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 158.8933518305359,
+      "reported": 238.34002774580384,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 183.0629636397676,
+      "reported": 274.5944454596514,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 146.30474692314317,
+      "reported": 219.45712038471476,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 74.24430711419207,
+      "reported": 111.36646067128811,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 140.9643589489385,
+      "reported": 211.44653842340773,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 65.22073142990482,
+      "reported": 97.83109714485722,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 50.759237576932804,
+      "reported": 76.1388563653992,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 132.31006840498793,
+      "reported": 198.4651026074819,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 147.79418892539007,
+      "reported": 221.6912833880851,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 156.82688320213038,
+      "reported": 235.24032480319556,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 98.80995472389016,
+      "reported": 148.21493208583524,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 147.44493485708222,
+      "reported": 221.16740228562333,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 148.6419338450515,
+      "reported": 222.96290076757725,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 64.05121517421387,
+      "reported": 96.0768227613208,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 89.78035515225882,
+      "reported": 134.67053272838822,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 195.95158321286684,
+      "reported": 293.92737481930027,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 183.806983276567,
+      "reported": 275.71047491485047,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 169.22169553124726,
+      "reported": 253.83254329687088,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 136.53558269395387,
+      "reported": 204.8033740409308,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 79.28644816970667,
+      "reported": 118.92967225456002,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.11585436612836,
+      "reported": 138.17378154919254,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 146.82084438607518,
+      "reported": 220.23126657911277,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 191.06878765293715,
+      "reported": 286.60318147940575,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 187.22965853306727,
+      "reported": 280.84448779960087,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 52.31849247933012,
+      "reported": 78.47773871899517,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 114.22762224759715,
+      "reported": 171.34143337139574,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 194.54299656338793,
+      "reported": 291.81449484508187,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 94.16733381043785,
+      "reported": 141.25100071565677,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 177.67050072752852,
+      "reported": 266.5057510912928,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 75.42391200291388,
+      "reported": 113.13586800437082,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 190.42321612411715,
+      "reported": 285.6348241861757,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 135.50917551340473,
+      "reported": 203.2637632701071,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 142.25108400487545,
+      "reported": 213.37662600731318,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 71.01260228547861,
+      "reported": 106.51890342821791,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 181.60596078919332,
+      "reported": 272.40894118379,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 154.5523611492902,
+      "reported": 231.8285417239353,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 103.92367268296327,
+      "reported": 155.8855090244449,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 171.40417332177702,
+      "reported": 257.1062599826655,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 180.06084778701555,
+      "reported": 270.09127168052333,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 126.70135982914067,
+      "reported": 190.05203974371102,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 169.74427684501626,
+      "reported": 254.6164152675244,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 155.2950315886555,
+      "reported": 232.94254738298324,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 183.50080127263493,
+      "reported": 275.2512019089524,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 106.3374428959916,
+      "reported": 159.5061643439874,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 136.74202114942608,
+      "reported": 205.11303172413912,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 119.83970271986902,
+      "reported": 179.75955407980354,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.98118781924266,
+      "reported": 139.471781728864,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 54.57503749085741,
+      "reported": 81.86255623628611,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 173.39008409894873,
+      "reported": 260.0851261484231,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 69.05907689778272,
+      "reported": 103.58861534667408,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 165.49903296479164,
+      "reported": 248.24854944718746,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 143.43357137285005,
+      "reported": 215.15035705927508,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 57.75225817529115,
+      "reported": 86.62838726293673,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 131.09526824151598,
+      "reported": 196.64290236227396,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 158.91370005839923,
+      "reported": 238.37055008759884,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 127.4450522451793,
+      "reported": 191.16757836776895,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 169.27792921530556,
+      "reported": 253.91689382295834,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 115.84571310584542,
+      "reported": 173.76856965876812,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 53.80261151231863,
+      "reported": 80.70391726847794,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 175.39701807683088,
+      "reported": 263.09552711524634,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 111.34294166214048,
+      "reported": 167.01441249321073,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 73.4655564006629,
+      "reported": 110.19833460099436,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 132.3839997059181,
+      "reported": 198.57599955887713,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 149.0296065076597,
+      "reported": 223.54440976148956,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 193.2297920994791,
+      "reported": 289.84468814921865,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 133.15310787671012,
+      "reported": 199.72966181506519,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 112.94000936416849,
+      "reported": 169.41001404625274,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 103.39590179768925,
+      "reported": 155.09385269653387,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 52.15902329446338,
+      "reported": 78.23853494169506,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 56.90039630326291,
+      "reported": 85.35059445489436,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 178.3190876016511,
+      "reported": 267.47863140247665,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 121.12607436309878,
+      "reported": 181.68911154464817,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 123.74238126752485,
+      "reported": 185.6135719012873,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 75.98028048650228,
+      "reported": 113.97042072975341,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 109.775710159606,
+      "reported": 164.66356523940902,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 145.26404763014656,
+      "reported": 217.89607144521983,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 106.19189219397069,
+      "reported": 159.28783829095602,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 125.47043878701315,
+      "reported": 188.20565818051972,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 148.80404474284177,
+      "reported": 223.20606711426265,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 60.58531211006448,
+      "reported": 90.87796816509672,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 53.976696581243274,
+      "reported": 80.9650448718649,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 191.03453621374365,
+      "reported": 286.5518043206155,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 108.22548893097829,
+      "reported": 162.33823339646744,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 118.73793357372749,
+      "reported": 178.10690036059123,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 191.21972131647877,
+      "reported": 286.82958197471817,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 194.17858457358713,
+      "reported": 291.2678768603807,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 79.36867021839447,
+      "reported": 119.0530053275917,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 65.116700206614,
+      "reported": 97.675050309921,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 64.16644411338926,
+      "reported": 96.24966617008388,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 60.678297269034346,
+      "reported": 91.01744590355152,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 176.73129664541818,
+      "reported": 265.0969449681273,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 172.17027238834038,
+      "reported": 258.25540858251054,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.72472414324844,
+      "reported": 101.58708621487266,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 144.3414270169826,
+      "reported": 216.5121405254739,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 160.26065657058285,
+      "reported": 240.39098485587428,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.30518588569598,
+      "reported": 138.45777882854395,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 162.59221274612875,
+      "reported": 243.8883191191931,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 198.575771300101,
+      "reported": 297.8636569501515,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 105.80271286891747,
+      "reported": 158.7040693033762,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 101.12053103795267,
+      "reported": 151.680796556929,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 178.76191277645177,
+      "reported": 268.1428691646777,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 162.6306601687246,
+      "reported": 243.9459902530869,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 65.4685803253899,
+      "reported": 98.20287048808484,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 125.78785586717858,
+      "reported": 188.68178380076787,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 98.00744015459176,
+      "reported": 147.01116023188763,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 108.38025181012446,
+      "reported": 162.57037771518668,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 185.80729646288955,
+      "reported": 278.71094469433433,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 97.89704563856223,
+      "reported": 146.84556845784334,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 192.5910720406334,
+      "reported": 288.8866080609501,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 144.77558182546989,
+      "reported": 217.16337273820483,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 93.98161575470968,
+      "reported": 140.97242363206453,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 150.87776841155576,
+      "reported": 226.31665261733366,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 168.73685655887726,
+      "reported": 253.1052848383159,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 63.680915457303556,
+      "reported": 95.52137318595533,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 58.63381400249664,
+      "reported": 87.95072100374496,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 116.22957520600656,
+      "reported": 174.34436280900985,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 102.6372518828118,
+      "reported": 153.95587782421768,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 71.44875230792537,
+      "reported": 107.17312846188807,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 142.73270949743915,
+      "reported": 214.09906424615872,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 62.616020917249614,
+      "reported": 93.92403137587442,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 60.91445095462903,
+      "reported": 91.37167643194354,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 155.93633407347443,
+      "reported": 233.90450111021164,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 62.72565711277879,
+      "reported": 94.0884856691682,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 106.14061936341804,
+      "reported": 159.21092904512705,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 171.91993508862538,
+      "reported": 257.87990263293807,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 197.90015957343064,
+      "reported": 296.85023936014596,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 106.43893782963737,
+      "reported": 159.65840674445604,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 166.5720373891155,
+      "reported": 249.85805608367326,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 113.63330138704644,
+      "reported": 170.44995208056966,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 66.6796223459227,
+      "reported": 100.01943351888404,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 51.70304671511286,
+      "reported": 77.55457007266929,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 58.4454913522756,
+      "reported": 87.6682370284134,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.62893701656573,
+      "reported": 101.4434055248486,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 161.9067318898135,
+      "reported": 242.86009783472025,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 194.32588227118129,
+      "reported": 291.4888234067719,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.8568129422791,
+      "reported": 139.28521941341864,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 83.5393757779179,
+      "reported": 125.30906366687685,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 51.82317120347245,
+      "reported": 77.73475680520868,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 56.473986792586416,
+      "reported": 84.71098018887963,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 129.15516636294498,
+      "reported": 193.73274954441746,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 61.06948471030983,
+      "reported": 91.60422706546474,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 195.39538034286485,
+      "reported": 293.09307051429727,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 144.40979572028937,
+      "reported": 216.61469358043405,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 118.18115971516599,
+      "reported": 177.27173957274897,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 137.64714678846502,
+      "reported": 206.47072018269753,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 56.81695705121868,
+      "reported": 85.22543557682802,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 192.56172261148382,
+      "reported": 288.84258391722574,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 118.34851291785694,
+      "reported": 177.5227693767854,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 91.6071774471699,
+      "reported": 137.41076617075487,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 119.55476074099732,
+      "reported": 179.332141111496,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 137.5484167776308,
+      "reported": 206.3226251664462,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 196.15922114992497,
+      "reported": 294.23883172488746,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 154.72425710296176,
+      "reported": 232.08638565444264,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 96.42914244294917,
+      "reported": 144.64371366442376,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 152.7096758830819,
+      "reported": 229.06451382462285,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 186.63907767407636,
+      "reported": 279.95861651111454,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 192.4699869937886,
+      "reported": 288.70498049068294,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 142.01227939036846,
+      "reported": 213.0184190855527,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 189.909272503102,
+      "reported": 284.863908754653,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 56.782800515928415,
+      "reported": 85.17420077389262,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 106.46950503170744,
+      "reported": 159.70425754756116,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 198.09141939724168,
+      "reported": 297.1371290958625,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 139.11960730282027,
+      "reported": 208.6794109542304,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 195.48715967219047,
+      "reported": 293.2307395082857,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 175.74930570667067,
+      "reported": 263.62395856000603,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 112.22292535064977,
+      "reported": 168.33438802597465,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 58.456324497639066,
+      "reported": 87.6844867464586,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 171.93515136951163,
+      "reported": 257.9027270542674,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 199.4955255610858,
+      "reported": 299.2432883416287,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 165.34811227707658,
+      "reported": 248.02216841561489,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 177.44710860161172,
+      "reported": 266.1706629024176,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 117.58162029651403,
+      "reported": 176.37243044477106,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 193.10765408880835,
+      "reported": 289.66148113321253,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 84.2964208255194,
+      "reported": 126.4446312382791,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 142.71923606868438,
+      "reported": 214.07885410302657,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.03363882994435,
+      "reported": 100.55045824491653,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 128.046155135569,
+      "reported": 192.0692327033535,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 128.024525166799,
+      "reported": 192.03678775019853,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 132.78602581617284,
+      "reported": 199.17903872425927,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 181.49804039875175,
+      "reported": 272.24706059812763,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.1022842675961,
+      "reported": 105.15342640139416,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 163.27058835104285,
+      "reported": 244.90588252656426,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 155.61196521488353,
+      "reported": 233.4179478223253,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.45572133801546,
+      "reported": 105.6835820070232,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 102.58813382098955,
+      "reported": 153.88220073148432,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 108.83660676495984,
+      "reported": 163.25491014743977,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 185.62380417406226,
+      "reported": 278.4357062610934,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 127.09842337397161,
+      "reported": 190.6476350609574,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 109.48141734819052,
+      "reported": 164.22212602228578,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 179.35455631201177,
+      "reported": 269.0318344680177,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 72.06102213935569,
+      "reported": 108.09153320903353,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 123.81744396193073,
+      "reported": 185.7261659428961,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 118.8703634357392,
+      "reported": 178.3055451536088,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 123.89271409893044,
+      "reported": 185.83907114839565,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 145.01012814750885,
+      "reported": 217.51519222126328,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 61.379499216299585,
+      "reported": 92.06924882444937,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 69.20687584366587,
+      "reported": 103.8103137654988,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.82407589741152,
+      "reported": 106.23611384611728,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 77.28201265987173,
+      "reported": 115.92301898980759,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 184.51826148590177,
+      "reported": 276.77739222885265,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 150.13366077815408,
+      "reported": 225.20049116723112,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 78.84335282130061,
+      "reported": 118.26502923195092,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 75.34025946082468,
+      "reported": 113.01038919123702,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 76.55157264151202,
+      "reported": 114.82735896226804,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 68.09538066509012,
+      "reported": 102.14307099763518,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 80.95005776086887,
+      "reported": 121.42508664130331,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 125.51259062822854,
+      "reported": 188.26888594234282,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 55.89682097616484,
+      "reported": 83.84523146424726,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 144.18505842363618,
+      "reported": 216.27758763545427,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 181.03679361601658,
+      "reported": 271.5551904240249,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 59.161693978229565,
+      "reported": 88.74254096734435,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 170.9301919689592,
+      "reported": 256.3952879534388,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 77.6781529034566,
+      "reported": 116.51722935518491,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 105.5708154187073,
+      "reported": 158.35622312806095,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 142.73821572954438,
+      "reported": 214.10732359431657,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 119.38020741997218,
+      "reported": 179.07031112995827,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 55.50248043358968,
+      "reported": 83.25372065038452,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 157.00243788268287,
+      "reported": 235.5036568240243,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 126.75161631734991,
+      "reported": 190.12742447602488,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 66.07580170096641,
+      "reported": 99.11370255144962,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 129.89258996825347,
+      "reported": 194.83888495238023,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 90.38648464240714,
+      "reported": 135.5797269636107,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 53.01067966665896,
+      "reported": 79.51601949998843,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 81.7172010494817,
+      "reported": 122.57580157422255,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.96431977288768,
+      "reported": 101.94647965933152,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 139.0388680331073,
+      "reported": 208.55830204966094,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 168.37568579110075,
+      "reported": 252.56352868665113,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 63.03804321311355,
+      "reported": 94.55706481967033,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 138.02616770313188,
+      "reported": 207.0392515546978,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 114.7489319344519,
+      "reported": 172.12339790167786,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 92.56638586980867,
+      "reported": 138.84957880471302,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 146.88758619974018,
+      "reported": 220.33137929961026,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 103.41450888467693,
+      "reported": 155.1217633270154,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 140.86622290353307,
+      "reported": 211.2993343552996,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 65.26737089306056,
+      "reported": 97.90105633959084,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 86.89365925767622,
+      "reported": 130.34048888651432,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 77.98505360769586,
+      "reported": 116.97758041154378,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 76.00603929421322,
+      "reported": 114.00905894131984,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 62.03506184924633,
+      "reported": 93.05259277386949,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 111.55952404844922,
+      "reported": 167.33928607267381,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 66.80583532520785,
+      "reported": 100.20875298781178,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 195.42056499130533,
+      "reported": 293.130847486958,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 172.56081064239197,
+      "reported": 258.84121596358796,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 75.63313810850987,
+      "reported": 113.44970716276481,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 189.40639836913786,
+      "reported": 284.1095975537068,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 135.74190342048496,
+      "reported": 203.61285513072744,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 165.42393997879054,
+      "reported": 248.1359099681858,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 98.55188546063656,
+      "reported": 147.82782819095485,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 126.14155680266825,
+      "reported": 189.2123352040024,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.22552371088054,
+      "reported": 100.8382855663208,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 93.29458298603836,
+      "reported": 139.94187447905756,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 73.15440729113035,
+      "reported": 109.73161093669553,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 129.8884148827379,
+      "reported": 194.83262232410684,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 100.49064172908808,
+      "reported": 150.7359625936321,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 59.50624557091516,
+      "reported": 89.25936835637275,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 98.35307674620844,
+      "reported": 147.52961511931267,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 88.19609821456459,
+      "reported": 132.29414732184688,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 164.034178983453,
+      "reported": 246.05126847517948,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 120.73642828252376,
+      "reported": 181.10464242378563,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 102.3302399814493,
+      "reported": 153.49535997217396,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 174.5929111681594,
+      "reported": 261.8893667522391,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 68.64458352283171,
+      "reported": 102.96687528424756,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 190.75106852315568,
+      "reported": 286.1266027847335,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 59.974440105016626,
+      "reported": 89.96166015752493,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 136.1709669769868,
+      "reported": 204.25645046548019,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.96585649394342,
+      "reported": 106.44878474091513,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 80.24409800716168,
+      "reported": 120.36614701074252,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 74.63986968964895,
+      "reported": 111.95980453447342,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 149.77958310443,
+      "reported": 224.669374656645,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 103.82457261852537,
+      "reported": 155.73685892778803,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 108.8667661133953,
+      "reported": 163.30014917009294,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 115.87023628553277,
+      "reported": 173.80535442829915,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 119.40196785044097,
+      "reported": 179.10295177566144,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 162.14140702643766,
+      "reported": 243.2121105396565,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 84.8319042720226,
+      "reported": 127.2478564080339,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 107.58368320598171,
+      "reported": 161.37552480897256,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 185.97081664468203,
+      "reported": 278.95622496702305,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.53470610625462,
+      "reported": 101.30205915938193,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 144.15620796071266,
+      "reported": 216.234311941069,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.8908108995081,
+      "reported": 106.33621634926214,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 143.01091338927702,
+      "reported": 214.51637008391555,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 184.08388745764364,
+      "reported": 276.12583118646546,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 72.75123195991267,
+      "reported": 109.12684793986901,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 87.27337097216986,
+      "reported": 130.9100564582548,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 55.02986521036691,
+      "reported": 82.54479781555037,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 164.36880286110357,
+      "reported": 246.55320429165536,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 101.31226230738612,
+      "reported": 151.9683934610792,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 66.59476054328108,
+      "reported": 99.89214081492162,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 69.12329934979736,
+      "reported": 103.68494902469604,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 169.59430486693304,
+      "reported": 254.39145730039957,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 84.38770928489623,
+      "reported": 126.58156392734435,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 158.00548048191115,
+      "reported": 237.00822072286672,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 154.092266670065,
+      "reported": 231.13840000509748,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 87.76985883604291,
+      "reported": 131.65478825406439,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 77.23965752021385,
+      "reported": 115.85948628032078,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 137.50876921491806,
+      "reported": 206.2631538223771,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 119.3008705466199,
+      "reported": 178.95130581992987,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 73.00271046741203,
+      "reported": 109.50406570111804,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 125.8833018326699,
+      "reported": 188.82495274900486,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 52.71652757312608,
+      "reported": 79.07479135968912,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 189.81774237254186,
+      "reported": 284.7266135588128,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 154.49762358153384,
+      "reported": 231.74643537230077,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 156.08579514700978,
+      "reported": 234.12869272051466,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 136.443254025022,
+      "reported": 204.66488103753298,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 113.6196006953579,
+      "reported": 170.42940104303685,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 190.1550522153522,
+      "reported": 285.2325783230283,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 117.62590571061982,
+      "reported": 176.43885856592973,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 197.72617984435018,
+      "reported": 296.58926976652526,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 68.69940218049003,
+      "reported": 103.04910327073503,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 180.48445430931923,
+      "reported": 270.7266814639788,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 138.69131536173938,
+      "reported": 208.03697304260908,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 58.2142458233047,
+      "reported": 87.32136873495705,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 170.4280172897017,
+      "reported": 255.64202593455255,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 100.02487575367164,
+      "reported": 150.03731363050747,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 130.6093404406884,
+      "reported": 195.91401066103262,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 101.95189915489419,
+      "reported": 152.9278487323413,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 160.62518721646225,
+      "reported": 240.9377808246934,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 83.69072344099729,
+      "reported": 125.53608516149593,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 71.12855305696998,
+      "reported": 106.69282958545497,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 124.75516591092196,
+      "reported": 187.13274886638294,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 187.226885160215,
+      "reported": 280.8403277403225,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 137.08825254170654,
+      "reported": 205.6323788125598,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 51.964168488250046,
+      "reported": 77.94625273237507,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 76.70539503046271,
+      "reported": 115.05809254569407,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 72.29940916296694,
+      "reported": 108.44911374445041,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 62.80245021179658,
+      "reported": 94.20367531769487,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 125.32925154968639,
+      "reported": 187.9938773245296,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 60.06147160826412,
+      "reported": 90.09220741239618,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 81.48583896433786,
+      "reported": 122.22875844650679,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 80.77094607230107,
+      "reported": 121.15641910845162,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 55.48245017721423,
+      "reported": 83.22367526582136,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 134.72616998939247,
+      "reported": 202.0892549840887,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 166.3291425042516,
+      "reported": 249.4937137563774,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 128.658540399137,
+      "reported": 192.9878105987055,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 110.1144591312989,
+      "reported": 165.17168869694837,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 73.28603688960688,
+      "reported": 109.92905533441032,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 179.26784315202758,
+      "reported": 268.90176472804137,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 105.99639744196294,
+      "reported": 158.99459616294442,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 146.59993148585238,
+      "reported": 219.89989722877857,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 53.80795334905173,
+      "reported": 80.7119300235776,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 157.39583432710964,
+      "reported": 236.09375149066446,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 54.06439887552252,
+      "reported": 81.09659831328378,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 84.66121948821072,
+      "reported": 126.99182923231608,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 52.956580663154625,
+      "reported": 79.43487099473194,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 169.9874128059784,
+      "reported": 254.9811192089676,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 147.91191617778122,
+      "reported": 221.86787426667183,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 64.91620891390177,
+      "reported": 97.37431337085266,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 158.34003977834885,
+      "reported": 237.51005966752328,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 174.53297968504876,
+      "reported": 261.79946952757314,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 150.21277048559693,
+      "reported": 225.3191557283954,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 93.97215953915199,
+      "reported": 140.95823930872797,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 51.95028852661041,
+      "reported": 77.92543278991562,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 81.1829382719041,
+      "reported": 121.77440740785616,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 77.21531526346959,
+      "reported": 115.82297289520439,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 113.21368258887469,
+      "reported": 169.82052388331203,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 172.61653426076612,
+      "reported": 258.9248013911492,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 88.91351501469387,
+      "reported": 133.3702725220408,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 138.54424137722117,
+      "reported": 207.81636206583175,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 143.6223361773701,
+      "reported": 215.43350426605514,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 132.80707712779702,
+      "reported": 199.21061569169552,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 94.16986393128765,
+      "reported": 141.25479589693148,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 164.54086912396411,
+      "reported": 246.81130368594617,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 180.27019638468693,
+      "reported": 270.4052945770304,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 184.1828340341137,
+      "reported": 276.27425105117055,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 113.78202567038502,
+      "reported": 170.67303850557755,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 90.3016039077419,
+      "reported": 135.45240586161287,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 145.0217329739221,
+      "reported": 217.53259946088315,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.90341111092363,
+      "reported": 106.35511666638544,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 197.66032710553282,
+      "reported": 296.4904906582992,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 75.75189287724552,
+      "reported": 113.62783931586829,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 52.758601482120014,
+      "reported": 79.13790222318002,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 67.66266243352118,
+      "reported": 101.49399365028177,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 91.10828310308091,
+      "reported": 136.66242465462136,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 147.71305825277963,
+      "reported": 221.56958737916943,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 80.96319076409048,
+      "reported": 121.44478614613573,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 70.5328445103211,
+      "reported": 105.79926676548165,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 181.0835116343773,
+      "reported": 271.62526745156595,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 140.077529065048,
+      "reported": 210.116293597572,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 76.30569179351744,
+      "reported": 114.45853769027616,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 112.81557873381097,
+      "reported": 169.22336810071644,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 127.83765579242564,
+      "reported": 191.75648368863847,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 74.94250531341191,
+      "reported": 112.41375797011787,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 62.419800188768974,
+      "reported": 93.62970028315345,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 86.80236645219814,
+      "reported": 130.2035496782972,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 93.30406051560499,
+      "reported": 139.95609077340748,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 157.85688577763682,
+      "reported": 236.78532866645523,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 134.9606960445346,
+      "reported": 202.44104406680188,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 149.5506748043972,
+      "reported": 224.3260122065958,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 159.88581458153755,
+      "reported": 239.82872187230632,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 54.6774702591927,
+      "reported": 82.01620538878905,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 139.2616896050382,
+      "reported": 208.89253440755732,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 124.45493708018545,
+      "reported": 186.68240562027816,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 100.13658362254412,
+      "reported": 150.2048754338162,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 65.98973797006578,
+      "reported": 98.98460695509866,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 159.22831343054048,
+      "reported": 238.84247014581072,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 153.2603594641604,
+      "reported": 229.89053919624058,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 86.96030498586603,
+      "reported": 130.44045747879903,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 169.91238184534689,
+      "reported": 254.86857276802033,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 90.8217705844944,
+      "reported": 136.2326558767416,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 104.14608454100403,
+      "reported": 156.21912681150604,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 187.5970363193364,
+      "reported": 281.3955544790046,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  },
+  {
+    "metrics": {
+      "actual": 192.53560307312037,
+      "reported": 288.80340460968057,
+      "safe_dose": 0.0,
+      "safe": 0
+    },
+    "condition": {}
+  }
+]

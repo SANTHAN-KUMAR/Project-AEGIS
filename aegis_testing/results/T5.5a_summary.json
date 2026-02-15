@@ -1,0 +1,28 @@
+{
+  "test_id": "T5.5a",
+  "test_name": "Cold start relaxation schedule",
+  "n_runs": 35,
+  "elapsed_seconds": 0.000202178955078125,
+  "metrics": {
+    "day": {
+      "mean": 17.0,
+      "std": 10.099504938362077,
+      "median": 17.0,
+      "ci_lower": 0.8500000000000001,
+      "ci_upper": 33.15,
+      "min": 0.0,
+      "max": 34.0,
+      "n": 35
+    },
+    "relaxation": {
+      "mean": 2.7714285714285714,
+      "std": 1.290186226428655,
+      "median": 2.7333333333333334,
+      "ci_lower": 1.0,
+      "ci_upper": 4.886666666666666,
+      "min": 1.0,
+      "max": 5.0,
+      "n": 35
+    }
+  }
+}
