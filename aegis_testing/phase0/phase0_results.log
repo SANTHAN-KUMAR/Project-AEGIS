@@ -1,0 +1,154 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.7, pytest-8.4.1, pluggy-1.6.0 -- /usr/bin/python
+cachedir: .pytest_cache
+rootdir: /home/santhankumar/Documents/GitHub/Project-AEGIS
+plugins: anyio-4.7.0, cov-7.0.0
+collecting ... collected 17 items
+
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_patient_count PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_patient_groups PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_patient_parameters_valid PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_single_patient_simulation 
+  adult#001 after 5 steps: BG = 138.6 mg/dL
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_bergman_parameter_comparison 
+  simglucose patient parameters (62 columns):
+  Columns: ['Name', 'i', 'x0_ 1', 'x0_ 2', 'x0_ 3', 'x0_ 4', 'x0_ 5', 'x0_ 6', 'x0_ 7', 'x0_ 8', 'x0_ 9', 'x0_10', 'x0_11', 'x0_12', 'x0_13', 'BW', 'EGPb', 'Gb', 'Ib', 'kabs']
+  Sample (adult#001):
+    Name: adult#001
+    i: 1
+    x0_ 1: 0
+    x0_ 2: 0
+    x0_ 3: 0
+    x0_ 4: 265.370112
+    x0_ 5: 162.457097269
+    x0_ 6: 5.5043265
+    x0_ 7: 0
+    x0_ 8: 100.25
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_baseline_simulation_stability 
+  24-hour baseline simulation (adult#001, basal-only, no meals):
+    Mean glucose: 11.5 mg/dL
+    Min glucose:  -0.0 mg/dL
+    Max glucose:  138.6 mg/dL
+    SD:           33.7 mg/dL
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestAdapterLayer::test_glucose_trace_extraction 
+  60-step trace: mean=136.7, range=[129.2, 138.6]
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestAdapterLayer::test_meal_injection 
+  Meal injection test (50g carbs):
+    Before meal: 138.1 mg/dL
+    Peak after:  146.8 mg/dL
+    Rise:        +8.7 mg/dL
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestAdapterLayer::test_multi_patient_batch 
+  Successfully created and simulated 30/30 patients
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestBaselineMetrics::test_compute_clinical_metrics 
+  Baseline clinical metrics (adult#001, basal-only, 24h):
+    TIR (70-180):  7.9%
+    TBR (<70):     92.1%
+    TBR (<54):     91.1%
+    TAR (>180):    0.0%
+    TAR (>250):    0.0%
+    CV:            291.7%
+    Mean glucose:  11.5 mg/dL
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestReproducibility::test_deterministic_across_runs 
+  T0.1: 3 runs × 360 steps — bit-identical ✅
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestAllPatient24h::test_all_patients_24h_bounds 
+  T0.2: 30 patients × 24h simulation results:
+    ✅ adolescent#001     BG=[149.0, 951.5]
+    ✅ adolescent#002     BG=[152.4, 724.3]
+    ✅ adolescent#003     BG=[145.9, 1362.3]
+    ✅ adolescent#004     BG=[144.7, 1335.9]
+    ✅ adolescent#005     BG=[139.0, 1161.0]
+    ✅ adolescent#006     BG=[134.7, 782.3]
+    ✅ adolescent#007     BG=[145.2, 1041.2]
+    ✅ adolescent#008     BG=[144.3, 615.0]
+    ✅ adolescent#009     BG=[138.0, 952.2]
+    ✅ adolescent#010     BG=[144.9, 1874.5]
+    ✅ adult#001          BG=[138.6, 552.5]
+    ✅ adult#002          BG=[136.5, 603.2]
+    ✅ adult#003          BG=[147.1, 1130.9]
+    ✅ adult#004          BG=[150.7, 1954.4]
+    ✅ adult#005          BG=[142.7, 438.6]
+    ✅ adult#006          BG=[135.6, 1566.4]
+    ✅ adult#007          BG=[135.3, 2760.3]
+    ✅ adult#008          BG=[143.2, 530.8]
+    ✅ adult#009          BG=[145.1, 540.5]
+    ✅ adult#010          BG=[152.8, 630.6]
+    ✅ child#001          BG=[141.2, 5535.1]
+    ✅ child#002          BG=[143.4, 1717.0]
+    ✅ child#003          BG=[133.8, 1821.0]
+    ✅ child#004          BG=[133.7, 4423.3]
+    ✅ child#005          BG=[137.9, 3796.6]
+    ✅ child#006          BG=[142.0, 2223.5]
+    ✅ child#007          BG=[133.4, 1159.6]
+    ✅ child#008          BG=[151.3, 2487.0]
+    ✅ child#009          BG=[137.3, 2503.7]
+    ✅ child#010          BG=[136.4, 2260.3]
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestBergmanCrossCheck::test_bergman_params_exist 
+  T0.3: Found 62 parameters in simglucose
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestBergmanCrossCheck::test_bergman_param_ranges   BW         (Body weight (kg)): range=[23.734, 111.100], mean=56.544
+  kabs       (Absorption rate (1/min)): range=[0.021, 1.232], mean=0.227
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestBergmanCrossCheck::test_body_weight_cross_check 
+  BW cross-check:
+    JS prototype:  70 kg (population mean)
+    simglucose:    mean=56.5 kg, range=[23.7, 111.1]
+    Difference:    19.2%
+PASSED
+aegis_testing/phase0/test_simglucose_setup.py::TestBergmanCrossCheck::test_kabs_cross_check 
+  kabs cross-check:
+    JS prototype:  0.0570 /min
+    simglucose:    mean=0.2269, range=[0.0214, 1.2323]
+    Difference:    298.1%
+    ⚠️  FINDING: JS prototype kabs diverges 298% from simglucose. L2 Digital Twin MUST use simglucose's native params, not JS hardcoded values.
+PASSED
+
+=============================== warnings summary ===============================
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+  /home/santhankumar/.local/lib/python3.13/site-packages/gym/__init__.py:20: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+    if distutils.version.LooseVersion(numpy.__version__) < distutils.version.LooseVersion('1.10.4'):
+
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+  /home/santhankumar/.local/lib/python3.13/site-packages/gym/__init__.py:23: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+    if distutils.version.LooseVersion(requests.__version__) < distutils.version.LooseVersion('2.0'):
+
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+  /home/santhankumar/.local/lib/python3.13/site-packages/gym/envs/registration.py:2: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+    import pkg_resources
+
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+  /usr/lib/python3.13/site-packages/pkg_resources/__init__.py:3154: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('pyannote')`.
+  Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+    declare_namespace(pkg)
+
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+  /usr/lib/python3.13/site-packages/pkg_resources/__init__.py:3154: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('sphinxcontrib')`.
+  Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+    declare_namespace(pkg)
+
+aegis_testing/phase0/test_simglucose_setup.py::TestSimglucoseSetup::test_simglucose_imports
+  /usr/lib/python3.13/site-packages/pkg_resources/__init__.py:3154: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('paste')`.
+  Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+    declare_namespace(pkg)
+
+../../../.local/lib/python3.13/site-packages/_pytest/cacheprovider.py:475
+  /home/santhankumar/.local/lib/python3.13/site-packages/_pytest/cacheprovider.py:475: PytestCacheWarning: cache could not write path /home/santhankumar/Documents/GitHub/Project-AEGIS/.pytest_cache/v/cache/nodeids: [Errno 13] Permission denied: '/home/santhankumar/Documents/GitHub/Project-AEGIS/.pytest_cache/v/cache/nodeids'
+    config.cache.set("cache/nodeids", sorted(self.cached_nodeids))
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================= 17 passed, 13 warnings in 39.33s =======================
